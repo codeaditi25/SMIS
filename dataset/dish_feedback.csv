@@ -1,0 +1,1831 @@
+date,dish,feedback,sentiment,rating,votes
+2023-06-01,Paneer Butter Masala,paneer was delicious,Positive,4,46
+2023-06-01,Biryani,nothing special today,Neutral,3,83
+2023-06-01,Khichdi,very tasty and fresh,Positive,5,38
+2023-06-01,Rajma Rice,not fresh at all,Negative,2,24
+2023-06-01,Poha,could be better,Neutral,3,113
+2023-06-02,Chole Bhature,best meal this week,Positive,4,33
+2023-06-02,Biryani,best meal this week,Positive,5,54
+2023-06-02,Paneer Butter Masala,very tasty and fresh,Positive,5,18
+2023-06-02,Curd Rice,food was amazing today!,Positive,4,105
+2023-06-02,Khichdi,paneer was delicious,Positive,5,68
+2023-06-03,Rajma Rice,could be better,Neutral,3,16
+2023-06-03,Paratha,food was amazing today!,Positive,4,44
+2023-06-03,Fried Rice,paneer was delicious,Positive,5,87
+2023-06-03,Dal Rice,best meal this week,Positive,4,106
+2023-06-03,Curd Rice,really enjoyed the food,Positive,5,24
+2023-06-04,Dal Rice,best meal this week,Positive,4,38
+2023-06-04,Curd Rice,food was amazing today!,Positive,4,36
+2023-06-04,Khichdi,excellent quality today,Positive,4,107
+2023-06-04,Paneer Butter Masala,really enjoyed the food,Positive,4,10
+2023-06-04,Roti Sabzi,paneer was delicious,Positive,4,26
+2023-06-05,Chole Bhature,not fresh at all,Negative,1,60
+2023-06-05,Biryani,food was too salty,Negative,2,12
+2023-06-05,Upma,loved the biryani!,Positive,5,83
+2023-06-05,Khichdi,paneer was delicious,Positive,5,47
+2023-06-05,Paneer Butter Masala,food was amazing today!,Positive,5,31
+2023-06-06,Fried Rice,loved the biryani!,Positive,4,65
+2023-06-06,Paneer Butter Masala,could be better,Neutral,3,60
+2023-06-06,Roti Sabzi,not fresh at all,Negative,1,52
+2023-06-06,Rajma Rice,food was okay,Neutral,3,77
+2023-06-06,Poha,really enjoyed the food,Positive,5,103
+2023-06-07,Curd Rice,very tasty and fresh,Positive,4,107
+2023-06-07,Paratha,food was okay,Neutral,3,108
+2023-06-07,Upma,decent meal,Neutral,3,97
+2023-06-07,Poha,not fresh at all,Negative,2,29
+2023-06-07,Khichdi,great taste today,Positive,5,90
+2023-06-08,Dal Rice,best meal this week,Positive,5,67
+2023-06-08,Fried Rice,really enjoyed the food,Positive,5,19
+2023-06-08,Paneer Butter Masala,food was okay,Neutral,3,69
+2023-06-08,Idli Sambar,acceptable quality,Neutral,3,67
+2023-06-08,Rajma Rice,tasteless food,Negative,2,87
+2023-06-09,Roti Sabzi,really enjoyed the food,Positive,4,74
+2023-06-09,Biryani,food was okay,Neutral,3,100
+2023-06-09,Paratha,great taste today,Positive,4,56
+2023-06-09,Idli Sambar,best meal this week,Positive,5,62
+2023-06-09,Fried Rice,acceptable quality,Neutral,3,111
+2023-06-10,Curd Rice,paneer was delicious,Positive,5,42
+2023-06-10,Fried Rice,acceptable quality,Neutral,3,52
+2023-06-10,Rajma Rice,very tasty and fresh,Positive,5,49
+2023-06-10,Poha,worst meal this month,Negative,1,86
+2023-06-10,Khichdi,food was okay,Neutral,3,81
+2023-06-11,Chole Bhature,paneer was delicious,Positive,5,12
+2023-06-11,Curd Rice,very tasty and fresh,Positive,4,53
+2023-06-11,Rajma Rice,rice was overcooked,Negative,1,38
+2023-06-11,Paratha,very bad quality today,Negative,1,47
+2023-06-11,Biryani,dal was undercooked,Negative,1,94
+2023-06-12,Rajma Rice,very tasty and fresh,Positive,4,102
+2023-06-12,Paneer Butter Masala,paneer was delicious,Positive,5,96
+2023-06-12,Paratha,decent meal,Neutral,3,106
+2023-06-12,Khichdi,decent meal,Neutral,3,78
+2023-06-12,Chole Bhature,great taste today,Positive,4,57
+2023-06-13,Curd Rice,could be better,Neutral,3,30
+2023-06-13,Paneer Butter Masala,very bad quality today,Negative,2,16
+2023-06-13,Roti Sabzi,nothing special today,Neutral,3,101
+2023-06-13,Fried Rice,dal was undercooked,Negative,2,20
+2023-06-13,Dal Rice,nothing special today,Neutral,3,75
+2023-06-14,Paratha,food was too salty,Negative,2,16
+2023-06-14,Chole Bhature,really enjoyed the food,Positive,4,59
+2023-06-14,Poha,not fresh at all,Negative,1,13
+2023-06-14,Upma,loved the biryani!,Positive,5,111
+2023-06-14,Roti Sabzi,food was amazing today!,Positive,5,116
+2023-06-15,Roti Sabzi,food was okay,Neutral,3,42
+2023-06-15,Khichdi,very tasty and fresh,Positive,5,24
+2023-06-15,Paratha,average as usual,Neutral,3,25
+2023-06-15,Fried Rice,paneer was delicious,Positive,5,18
+2023-06-15,Paneer Butter Masala,great taste today,Positive,4,90
+2023-06-16,Biryani,really enjoyed the food,Positive,4,83
+2023-06-16,Paneer Butter Masala,loved the biryani!,Positive,5,18
+2023-06-16,Upma,food was too salty,Negative,2,70
+2023-06-16,Paratha,paneer was delicious,Positive,5,42
+2023-06-16,Dal Rice,nothing special today,Neutral,3,54
+2023-06-17,Upma,really enjoyed the food,Positive,5,114
+2023-06-17,Khichdi,acceptable quality,Neutral,3,99
+2023-06-17,Curd Rice,very tasty and fresh,Positive,4,18
+2023-06-17,Poha,decent meal,Neutral,3,47
+2023-06-17,Rajma Rice,excellent quality today,Positive,4,50
+2023-06-18,Dal Rice,excellent quality today,Positive,5,55
+2023-06-18,Biryani,food was too salty,Negative,2,44
+2023-06-18,Chole Bhature,really enjoyed the food,Positive,5,61
+2023-06-18,Khichdi,decent meal,Neutral,3,33
+2023-06-18,Roti Sabzi,great taste today,Positive,5,112
+2023-06-19,Biryani,very tasty and fresh,Positive,5,51
+2023-06-19,Dal Rice,really enjoyed the food,Positive,5,49
+2023-06-19,Poha,paneer was delicious,Positive,4,98
+2023-06-19,Chole Bhature,great taste today,Positive,4,103
+2023-06-19,Curd Rice,not fresh at all,Negative,2,45
+2023-06-20,Curd Rice,very tasty and fresh,Positive,4,28
+2023-06-20,Idli Sambar,rice was overcooked,Negative,1,26
+2023-06-20,Poha,really enjoyed the food,Positive,5,59
+2023-06-20,Chole Bhature,food was too salty,Negative,1,96
+2023-06-20,Rajma Rice,really enjoyed the food,Positive,5,66
+2023-06-21,Fried Rice,really enjoyed the food,Positive,5,41
+2023-06-21,Poha,food was too salty,Negative,1,73
+2023-06-21,Paneer Butter Masala,loved the biryani!,Positive,5,109
+2023-06-21,Paratha,great taste today,Positive,4,88
+2023-06-21,Biryani,great taste today,Positive,4,25
+2023-06-22,Paratha,not fresh at all,Negative,2,100
+2023-06-22,Poha,best meal this week,Positive,5,118
+2023-06-22,Roti Sabzi,very tasty and fresh,Positive,5,75
+2023-06-22,Fried Rice,excellent quality today,Positive,4,40
+2023-06-22,Curd Rice,food was okay,Neutral,3,80
+2023-06-23,Paneer Butter Masala,food was okay,Neutral,3,49
+2023-06-23,Rajma Rice,great taste today,Positive,5,108
+2023-06-23,Roti Sabzi,loved the biryani!,Positive,4,50
+2023-06-23,Biryani,decent meal,Neutral,3,97
+2023-06-23,Paratha,very tasty and fresh,Positive,4,108
+2023-06-24,Paratha,best meal this week,Positive,4,30
+2023-06-24,Chole Bhature,excellent quality today,Positive,5,76
+2023-06-24,Biryani,dal was undercooked,Negative,2,35
+2023-06-24,Idli Sambar,could be better,Neutral,3,26
+2023-06-24,Poha,could be better,Neutral,3,74
+2023-06-25,Curd Rice,really enjoyed the food,Positive,4,115
+2023-06-25,Paratha,dal was undercooked,Negative,1,92
+2023-06-25,Paneer Butter Masala,nothing special today,Neutral,3,108
+2023-06-25,Fried Rice,could be better,Neutral,3,73
+2023-06-25,Khichdi,cold food served again,Negative,2,71
+2023-06-26,Upma,food was amazing today!,Positive,4,66
+2023-06-26,Curd Rice,great taste today,Positive,4,53
+2023-06-26,Chole Bhature,nothing special today,Neutral,3,103
+2023-06-26,Dal Rice,not fresh at all,Negative,2,26
+2023-06-26,Roti Sabzi,could be better,Neutral,3,50
+2023-06-27,Upma,loved the biryani!,Positive,4,47
+2023-06-27,Roti Sabzi,worst meal this month,Negative,1,120
+2023-06-27,Poha,not fresh at all,Negative,2,34
+2023-06-27,Dal Rice,decent meal,Neutral,3,73
+2023-06-27,Khichdi,rice was overcooked,Negative,1,21
+2023-06-28,Chole Bhature,food was okay,Neutral,3,46
+2023-06-28,Biryani,great taste today,Positive,5,78
+2023-06-28,Roti Sabzi,loved the biryani!,Positive,5,27
+2023-06-28,Upma,not fresh at all,Negative,2,56
+2023-06-28,Paneer Butter Masala,food was amazing today!,Positive,4,56
+2023-06-29,Biryani,best meal this week,Positive,4,26
+2023-06-29,Dal Rice,worst meal this month,Negative,2,111
+2023-06-29,Poha,not fresh at all,Negative,1,35
+2023-06-29,Chole Bhature,decent meal,Neutral,3,15
+2023-06-29,Fried Rice,really enjoyed the food,Positive,5,76
+2023-06-30,Roti Sabzi,really enjoyed the food,Positive,4,60
+2023-06-30,Paratha,cold food served again,Negative,2,74
+2023-06-30,Paneer Butter Masala,rice was overcooked,Negative,2,70
+2023-06-30,Biryani,not fresh at all,Negative,2,96
+2023-06-30,Khichdi,paneer was delicious,Positive,5,111
+2023-07-01,Khichdi,excellent quality today,Positive,4,84
+2023-07-01,Fried Rice,paneer was delicious,Positive,4,115
+2023-07-01,Curd Rice,food was okay,Neutral,3,34
+2023-07-01,Idli Sambar,really enjoyed the food,Positive,5,29
+2023-07-01,Roti Sabzi,excellent quality today,Positive,5,74
+2023-07-02,Fried Rice,really enjoyed the food,Positive,5,77
+2023-07-02,Paneer Butter Masala,very tasty and fresh,Positive,5,78
+2023-07-02,Roti Sabzi,really enjoyed the food,Positive,5,88
+2023-07-02,Idli Sambar,excellent quality today,Positive,5,81
+2023-07-02,Paratha,best meal this week,Positive,5,100
+2023-07-03,Upma,best meal this week,Positive,5,25
+2023-07-03,Khichdi,could be better,Neutral,3,60
+2023-07-03,Roti Sabzi,very bad quality today,Negative,2,15
+2023-07-03,Rajma Rice,loved the biryani!,Positive,5,66
+2023-07-03,Curd Rice,acceptable quality,Neutral,3,37
+2023-07-04,Upma,excellent quality today,Positive,4,16
+2023-07-04,Biryani,could be better,Neutral,3,91
+2023-07-04,Dal Rice,loved the biryani!,Positive,5,52
+2023-07-04,Khichdi,food was okay,Neutral,3,10
+2023-07-04,Curd Rice,very bad quality today,Negative,2,93
+2023-07-05,Roti Sabzi,food was amazing today!,Positive,4,93
+2023-07-05,Fried Rice,could be better,Neutral,3,32
+2023-07-05,Curd Rice,very tasty and fresh,Positive,4,117
+2023-07-05,Upma,great taste today,Positive,4,105
+2023-07-05,Dal Rice,cold food served again,Negative,1,11
+2023-07-06,Dal Rice,great taste today,Positive,4,118
+2023-07-06,Paneer Butter Masala,best meal this week,Positive,4,113
+2023-07-06,Khichdi,very tasty and fresh,Positive,5,92
+2023-07-06,Poha,very tasty and fresh,Positive,4,104
+2023-07-06,Rajma Rice,best meal this week,Positive,4,32
+2023-07-07,Paneer Butter Masala,paneer was delicious,Positive,4,33
+2023-07-07,Curd Rice,rice was overcooked,Negative,2,41
+2023-07-07,Chole Bhature,paneer was delicious,Positive,4,67
+2023-07-07,Khichdi,nothing special today,Neutral,3,84
+2023-07-07,Biryani,food was okay,Neutral,3,93
+2023-07-08,Rajma Rice,very tasty and fresh,Positive,5,97
+2023-07-08,Khichdi,best meal this week,Positive,4,91
+2023-07-08,Upma,cold food served again,Negative,2,88
+2023-07-08,Idli Sambar,very tasty and fresh,Positive,5,29
+2023-07-08,Poha,really enjoyed the food,Positive,5,99
+2023-07-09,Biryani,could be better,Neutral,3,77
+2023-07-09,Roti Sabzi,really enjoyed the food,Positive,4,82
+2023-07-09,Fried Rice,excellent quality today,Positive,4,31
+2023-07-09,Upma,great taste today,Positive,4,97
+2023-07-09,Paneer Butter Masala,great taste today,Positive,4,75
+2023-07-10,Roti Sabzi,food was amazing today!,Positive,5,96
+2023-07-10,Idli Sambar,food was too salty,Negative,2,42
+2023-07-10,Fried Rice,tasteless food,Negative,1,15
+2023-07-10,Paratha,loved the biryani!,Positive,4,18
+2023-07-10,Biryani,rice was overcooked,Negative,1,46
+2023-07-11,Chole Bhature,worst meal this month,Negative,2,58
+2023-07-11,Paratha,very tasty and fresh,Positive,5,25
+2023-07-11,Khichdi,paneer was delicious,Positive,4,103
+2023-07-11,Fried Rice,food was too salty,Negative,1,48
+2023-07-11,Rajma Rice,paneer was delicious,Positive,5,115
+2023-07-12,Upma,loved the biryani!,Positive,4,113
+2023-07-12,Fried Rice,could be better,Neutral,3,40
+2023-07-12,Roti Sabzi,loved the biryani!,Positive,4,67
+2023-07-12,Rajma Rice,acceptable quality,Neutral,3,41
+2023-07-12,Paratha,decent meal,Neutral,3,39
+2023-07-13,Biryani,tasteless food,Negative,2,83
+2023-07-13,Upma,acceptable quality,Neutral,3,40
+2023-07-13,Idli Sambar,very tasty and fresh,Positive,4,62
+2023-07-13,Paratha,food was amazing today!,Positive,4,90
+2023-07-13,Fried Rice,could be better,Neutral,3,16
+2023-07-14,Rajma Rice,paneer was delicious,Positive,5,29
+2023-07-14,Curd Rice,very tasty and fresh,Positive,5,40
+2023-07-14,Khichdi,cold food served again,Negative,1,113
+2023-07-14,Chole Bhature,food was amazing today!,Positive,5,63
+2023-07-14,Biryani,average as usual,Neutral,3,41
+2023-07-15,Dal Rice,dal was undercooked,Negative,1,16
+2023-07-15,Upma,food was amazing today!,Positive,4,34
+2023-07-15,Rajma Rice,tasteless food,Negative,2,36
+2023-07-15,Poha,not fresh at all,Negative,2,11
+2023-07-15,Roti Sabzi,excellent quality today,Positive,4,105
+2023-07-16,Fried Rice,excellent quality today,Positive,5,109
+2023-07-16,Roti Sabzi,great taste today,Positive,5,49
+2023-07-16,Upma,great taste today,Positive,5,22
+2023-07-16,Paneer Butter Masala,rice was overcooked,Negative,2,36
+2023-07-16,Curd Rice,paneer was delicious,Positive,4,82
+2023-07-17,Upma,could be better,Neutral,3,47
+2023-07-17,Khichdi,really enjoyed the food,Positive,4,58
+2023-07-17,Paratha,average as usual,Neutral,3,80
+2023-07-17,Idli Sambar,acceptable quality,Neutral,3,42
+2023-07-17,Dal Rice,decent meal,Neutral,3,68
+2023-07-18,Paratha,decent meal,Neutral,3,79
+2023-07-18,Khichdi,food was too salty,Negative,1,117
+2023-07-18,Rajma Rice,food was too salty,Negative,1,62
+2023-07-18,Fried Rice,excellent quality today,Positive,4,100
+2023-07-18,Paneer Butter Masala,excellent quality today,Positive,5,57
+2023-07-19,Idli Sambar,food was okay,Neutral,3,78
+2023-07-19,Paneer Butter Masala,food was okay,Neutral,3,77
+2023-07-19,Curd Rice,could be better,Neutral,3,12
+2023-07-19,Khichdi,paneer was delicious,Positive,4,23
+2023-07-19,Roti Sabzi,very bad quality today,Negative,1,34
+2023-07-20,Paneer Butter Masala,food was okay,Neutral,3,61
+2023-07-20,Biryani,excellent quality today,Positive,4,48
+2023-07-20,Dal Rice,food was okay,Neutral,3,21
+2023-07-20,Rajma Rice,paneer was delicious,Positive,5,17
+2023-07-20,Curd Rice,acceptable quality,Neutral,3,20
+2023-07-21,Roti Sabzi,food was too salty,Negative,1,37
+2023-07-21,Chole Bhature,rice was overcooked,Negative,2,15
+2023-07-21,Curd Rice,cold food served again,Negative,1,32
+2023-07-21,Rajma Rice,not fresh at all,Negative,1,36
+2023-07-21,Poha,acceptable quality,Neutral,3,19
+2023-07-22,Dal Rice,could be better,Neutral,3,59
+2023-07-22,Paratha,average as usual,Neutral,3,74
+2023-07-22,Paneer Butter Masala,nothing special today,Neutral,3,22
+2023-07-22,Upma,loved the biryani!,Positive,5,87
+2023-07-22,Chole Bhature,could be better,Neutral,3,109
+2023-07-23,Rajma Rice,really enjoyed the food,Positive,5,65
+2023-07-23,Idli Sambar,paneer was delicious,Positive,4,108
+2023-07-23,Curd Rice,average as usual,Neutral,3,20
+2023-07-23,Dal Rice,paneer was delicious,Positive,4,104
+2023-07-23,Roti Sabzi,really enjoyed the food,Positive,4,21
+2023-07-24,Idli Sambar,loved the biryani!,Positive,4,65
+2023-07-24,Dal Rice,paneer was delicious,Positive,4,13
+2023-07-24,Roti Sabzi,loved the biryani!,Positive,5,120
+2023-07-24,Rajma Rice,best meal this week,Positive,5,59
+2023-07-24,Khichdi,acceptable quality,Neutral,3,83
+2023-07-25,Biryani,best meal this week,Positive,5,73
+2023-07-25,Paratha,very tasty and fresh,Positive,5,45
+2023-07-25,Curd Rice,great taste today,Positive,4,56
+2023-07-25,Chole Bhature,excellent quality today,Positive,5,86
+2023-07-25,Khichdi,decent meal,Neutral,3,27
+2023-07-26,Dal Rice,not fresh at all,Negative,2,52
+2023-07-26,Idli Sambar,very tasty and fresh,Positive,5,51
+2023-07-26,Chole Bhature,acceptable quality,Neutral,3,71
+2023-07-26,Rajma Rice,paneer was delicious,Positive,5,47
+2023-07-26,Curd Rice,acceptable quality,Neutral,3,83
+2023-07-27,Fried Rice,worst meal this month,Negative,2,24
+2023-07-27,Upma,tasteless food,Negative,1,97
+2023-07-27,Rajma Rice,food was okay,Neutral,3,100
+2023-07-27,Chole Bhature,best meal this week,Positive,4,114
+2023-07-27,Dal Rice,worst meal this month,Negative,2,27
+2023-07-28,Curd Rice,decent meal,Neutral,3,67
+2023-07-28,Dal Rice,rice was overcooked,Negative,2,78
+2023-07-28,Upma,paneer was delicious,Positive,4,111
+2023-07-28,Khichdi,dal was undercooked,Negative,1,108
+2023-07-28,Paratha,really enjoyed the food,Positive,4,92
+2023-07-29,Paneer Butter Masala,worst meal this month,Negative,1,11
+2023-07-29,Idli Sambar,excellent quality today,Positive,4,67
+2023-07-29,Fried Rice,great taste today,Positive,4,54
+2023-07-29,Chole Bhature,rice was overcooked,Negative,1,47
+2023-07-29,Rajma Rice,loved the biryani!,Positive,4,116
+2023-07-30,Khichdi,excellent quality today,Positive,5,54
+2023-07-30,Paratha,great taste today,Positive,5,50
+2023-07-30,Rajma Rice,food was amazing today!,Positive,4,12
+2023-07-30,Dal Rice,dal was undercooked,Negative,1,104
+2023-07-30,Curd Rice,very tasty and fresh,Positive,4,52
+2023-07-31,Biryani,average as usual,Neutral,3,60
+2023-07-31,Chole Bhature,excellent quality today,Positive,5,85
+2023-07-31,Roti Sabzi,food was amazing today!,Positive,4,36
+2023-07-31,Upma,loved the biryani!,Positive,4,112
+2023-07-31,Khichdi,very bad quality today,Negative,2,51
+2023-08-01,Upma,really enjoyed the food,Positive,5,88
+2023-08-01,Roti Sabzi,loved the biryani!,Positive,5,55
+2023-08-01,Poha,very bad quality today,Negative,2,88
+2023-08-01,Dal Rice,acceptable quality,Neutral,3,50
+2023-08-01,Khichdi,best meal this week,Positive,4,33
+2023-08-02,Rajma Rice,very tasty and fresh,Positive,5,64
+2023-08-02,Khichdi,very tasty and fresh,Positive,4,72
+2023-08-02,Paratha,very tasty and fresh,Positive,5,117
+2023-08-02,Biryani,food was amazing today!,Positive,5,11
+2023-08-02,Chole Bhature,excellent quality today,Positive,5,81
+2023-08-03,Biryani,great taste today,Positive,5,31
+2023-08-03,Curd Rice,food was amazing today!,Positive,4,47
+2023-08-03,Roti Sabzi,excellent quality today,Positive,5,31
+2023-08-03,Chole Bhature,could be better,Neutral,3,80
+2023-08-03,Khichdi,loved the biryani!,Positive,5,109
+2023-08-04,Biryani,paneer was delicious,Positive,4,104
+2023-08-04,Rajma Rice,tasteless food,Negative,2,14
+2023-08-04,Fried Rice,really enjoyed the food,Positive,4,66
+2023-08-04,Idli Sambar,dal was undercooked,Negative,1,36
+2023-08-04,Roti Sabzi,not fresh at all,Negative,2,31
+2023-08-05,Paneer Butter Masala,could be better,Neutral,3,86
+2023-08-05,Paratha,really enjoyed the food,Positive,5,47
+2023-08-05,Upma,could be better,Neutral,3,27
+2023-08-05,Curd Rice,worst meal this month,Negative,1,45
+2023-08-05,Idli Sambar,very bad quality today,Negative,1,41
+2023-08-06,Paratha,best meal this week,Positive,5,58
+2023-08-06,Khichdi,loved the biryani!,Positive,5,75
+2023-08-06,Rajma Rice,acceptable quality,Neutral,3,68
+2023-08-06,Upma,not fresh at all,Negative,1,109
+2023-08-06,Chole Bhature,dal was undercooked,Negative,2,91
+2023-08-07,Curd Rice,paneer was delicious,Positive,4,73
+2023-08-07,Khichdi,best meal this week,Positive,5,80
+2023-08-07,Rajma Rice,could be better,Neutral,3,110
+2023-08-07,Poha,food was amazing today!,Positive,4,22
+2023-08-07,Biryani,decent meal,Neutral,3,25
+2023-08-08,Paratha,very tasty and fresh,Positive,5,30
+2023-08-08,Roti Sabzi,cold food served again,Negative,1,93
+2023-08-08,Khichdi,loved the biryani!,Positive,5,95
+2023-08-08,Idli Sambar,very bad quality today,Negative,1,60
+2023-08-08,Chole Bhature,acceptable quality,Neutral,3,64
+2023-08-09,Curd Rice,very tasty and fresh,Positive,4,76
+2023-08-09,Poha,food was okay,Neutral,3,99
+2023-08-09,Khichdi,loved the biryani!,Positive,5,98
+2023-08-09,Idli Sambar,loved the biryani!,Positive,4,59
+2023-08-09,Upma,loved the biryani!,Positive,4,50
+2023-08-10,Rajma Rice,acceptable quality,Neutral,3,18
+2023-08-10,Dal Rice,food was amazing today!,Positive,4,66
+2023-08-10,Paratha,excellent quality today,Positive,4,62
+2023-08-10,Chole Bhature,decent meal,Neutral,3,21
+2023-08-10,Curd Rice,very bad quality today,Negative,1,85
+2023-08-11,Khichdi,average as usual,Neutral,3,92
+2023-08-11,Chole Bhature,best meal this week,Positive,4,118
+2023-08-11,Rajma Rice,cold food served again,Negative,1,76
+2023-08-11,Fried Rice,average as usual,Neutral,3,47
+2023-08-11,Curd Rice,average as usual,Neutral,3,59
+2023-08-12,Poha,food was amazing today!,Positive,5,50
+2023-08-12,Upma,paneer was delicious,Positive,5,79
+2023-08-12,Roti Sabzi,decent meal,Neutral,3,12
+2023-08-12,Paneer Butter Masala,food was okay,Neutral,3,37
+2023-08-12,Fried Rice,food was amazing today!,Positive,5,74
+2023-08-13,Dal Rice,food was okay,Neutral,3,45
+2023-08-13,Curd Rice,loved the biryani!,Positive,4,113
+2023-08-13,Biryani,really enjoyed the food,Positive,5,85
+2023-08-13,Chole Bhature,acceptable quality,Neutral,3,49
+2023-08-13,Paneer Butter Masala,acceptable quality,Neutral,3,17
+2023-08-14,Upma,food was okay,Neutral,3,95
+2023-08-14,Poha,acceptable quality,Neutral,3,25
+2023-08-14,Chole Bhature,very tasty and fresh,Positive,4,30
+2023-08-14,Khichdi,really enjoyed the food,Positive,5,31
+2023-08-14,Roti Sabzi,best meal this week,Positive,4,108
+2023-08-15,Idli Sambar,loved the biryani!,Positive,5,68
+2023-08-15,Rajma Rice,food was amazing today!,Positive,5,119
+2023-08-15,Chole Bhature,nothing special today,Neutral,3,42
+2023-08-15,Dal Rice,could be better,Neutral,3,39
+2023-08-15,Biryani,food was okay,Neutral,3,119
+2023-08-16,Idli Sambar,very tasty and fresh,Positive,4,119
+2023-08-16,Upma,paneer was delicious,Positive,4,51
+2023-08-16,Fried Rice,really enjoyed the food,Positive,5,115
+2023-08-16,Roti Sabzi,really enjoyed the food,Positive,4,74
+2023-08-16,Rajma Rice,food was okay,Neutral,3,38
+2023-08-17,Fried Rice,cold food served again,Negative,2,51
+2023-08-17,Biryani,great taste today,Positive,4,57
+2023-08-17,Idli Sambar,best meal this week,Positive,4,69
+2023-08-17,Chole Bhature,great taste today,Positive,4,103
+2023-08-17,Poha,tasteless food,Negative,1,10
+2023-08-18,Chole Bhature,acceptable quality,Neutral,3,52
+2023-08-18,Idli Sambar,paneer was delicious,Positive,5,23
+2023-08-18,Upma,excellent quality today,Positive,5,72
+2023-08-18,Biryani,very bad quality today,Negative,2,21
+2023-08-18,Rajma Rice,excellent quality today,Positive,5,99
+2023-08-19,Rajma Rice,paneer was delicious,Positive,4,85
+2023-08-19,Roti Sabzi,decent meal,Neutral,3,40
+2023-08-19,Poha,really enjoyed the food,Positive,5,99
+2023-08-19,Paneer Butter Masala,not fresh at all,Negative,2,67
+2023-08-19,Curd Rice,loved the biryani!,Positive,4,27
+2023-08-20,Fried Rice,great taste today,Positive,5,62
+2023-08-20,Paneer Butter Masala,really enjoyed the food,Positive,4,67
+2023-08-20,Poha,best meal this week,Positive,4,21
+2023-08-20,Paratha,best meal this week,Positive,4,37
+2023-08-20,Curd Rice,not fresh at all,Negative,1,21
+2023-08-21,Khichdi,best meal this week,Positive,5,114
+2023-08-21,Upma,food was too salty,Negative,2,119
+2023-08-21,Rajma Rice,excellent quality today,Positive,4,69
+2023-08-21,Chole Bhature,very tasty and fresh,Positive,4,11
+2023-08-21,Biryani,excellent quality today,Positive,4,35
+2023-08-22,Chole Bhature,dal was undercooked,Negative,1,18
+2023-08-22,Rajma Rice,great taste today,Positive,4,21
+2023-08-22,Curd Rice,not fresh at all,Negative,1,15
+2023-08-22,Poha,food was too salty,Negative,1,83
+2023-08-22,Dal Rice,paneer was delicious,Positive,5,13
+2023-08-23,Chole Bhature,very tasty and fresh,Positive,5,45
+2023-08-23,Curd Rice,very tasty and fresh,Positive,4,88
+2023-08-23,Fried Rice,average as usual,Neutral,3,73
+2023-08-23,Paratha,great taste today,Positive,4,21
+2023-08-23,Rajma Rice,very tasty and fresh,Positive,5,35
+2023-08-24,Curd Rice,not fresh at all,Negative,2,79
+2023-08-24,Biryani,nothing special today,Neutral,3,59
+2023-08-24,Upma,food was amazing today!,Positive,5,86
+2023-08-24,Khichdi,best meal this week,Positive,4,113
+2023-08-24,Idli Sambar,not fresh at all,Negative,1,30
+2023-08-25,Poha,food was amazing today!,Positive,4,83
+2023-08-25,Upma,worst meal this month,Negative,2,117
+2023-08-25,Curd Rice,very bad quality today,Negative,1,40
+2023-08-25,Khichdi,acceptable quality,Neutral,3,85
+2023-08-25,Dal Rice,really enjoyed the food,Positive,4,82
+2023-08-26,Upma,loved the biryani!,Positive,4,39
+2023-08-26,Roti Sabzi,food was okay,Neutral,3,10
+2023-08-26,Biryani,excellent quality today,Positive,4,53
+2023-08-26,Dal Rice,nothing special today,Neutral,3,12
+2023-08-26,Paratha,very tasty and fresh,Positive,4,118
+2023-08-27,Biryani,nothing special today,Neutral,3,51
+2023-08-27,Rajma Rice,very tasty and fresh,Positive,5,111
+2023-08-27,Poha,decent meal,Neutral,3,32
+2023-08-27,Khichdi,could be better,Neutral,3,38
+2023-08-27,Chole Bhature,average as usual,Neutral,3,49
+2023-08-28,Khichdi,acceptable quality,Neutral,3,118
+2023-08-28,Fried Rice,food was too salty,Negative,1,87
+2023-08-28,Dal Rice,excellent quality today,Positive,4,73
+2023-08-28,Paratha,loved the biryani!,Positive,4,54
+2023-08-28,Paneer Butter Masala,very bad quality today,Negative,1,115
+2023-08-29,Khichdi,excellent quality today,Positive,4,98
+2023-08-29,Curd Rice,best meal this week,Positive,4,102
+2023-08-29,Fried Rice,paneer was delicious,Positive,5,103
+2023-08-29,Rajma Rice,very tasty and fresh,Positive,5,73
+2023-08-29,Roti Sabzi,not fresh at all,Negative,2,22
+2023-08-30,Roti Sabzi,food was amazing today!,Positive,5,12
+2023-08-30,Paneer Butter Masala,loved the biryani!,Positive,4,53
+2023-08-30,Curd Rice,paneer was delicious,Positive,4,103
+2023-08-30,Upma,loved the biryani!,Positive,5,86
+2023-08-30,Paratha,rice was overcooked,Negative,1,65
+2023-08-31,Curd Rice,really enjoyed the food,Positive,4,34
+2023-08-31,Paratha,best meal this week,Positive,5,48
+2023-08-31,Paneer Butter Masala,food was amazing today!,Positive,5,83
+2023-08-31,Chole Bhature,great taste today,Positive,4,16
+2023-08-31,Khichdi,paneer was delicious,Positive,4,47
+2023-09-01,Curd Rice,excellent quality today,Positive,4,91
+2023-09-01,Fried Rice,loved the biryani!,Positive,5,118
+2023-09-01,Paneer Butter Masala,paneer was delicious,Positive,5,72
+2023-09-01,Roti Sabzi,cold food served again,Negative,1,92
+2023-09-01,Upma,very tasty and fresh,Positive,5,58
+2023-09-02,Rajma Rice,best meal this week,Positive,4,117
+2023-09-02,Paratha,food was amazing today!,Positive,4,106
+2023-09-02,Roti Sabzi,food was okay,Neutral,3,95
+2023-09-02,Idli Sambar,paneer was delicious,Positive,4,80
+2023-09-02,Dal Rice,paneer was delicious,Positive,5,78
+2023-09-03,Curd Rice,paneer was delicious,Positive,4,74
+2023-09-03,Roti Sabzi,could be better,Neutral,3,25
+2023-09-03,Paneer Butter Masala,rice was overcooked,Negative,1,31
+2023-09-03,Upma,tasteless food,Negative,1,15
+2023-09-03,Khichdi,paneer was delicious,Positive,4,115
+2023-09-04,Curd Rice,dal was undercooked,Negative,1,59
+2023-09-04,Paratha,could be better,Neutral,3,119
+2023-09-04,Paneer Butter Masala,great taste today,Positive,4,110
+2023-09-04,Dal Rice,could be better,Neutral,3,24
+2023-09-04,Rajma Rice,very tasty and fresh,Positive,4,23
+2023-09-05,Paneer Butter Masala,cold food served again,Negative,2,93
+2023-09-05,Poha,great taste today,Positive,4,32
+2023-09-05,Dal Rice,very tasty and fresh,Positive,5,14
+2023-09-05,Biryani,really enjoyed the food,Positive,4,16
+2023-09-05,Rajma Rice,nothing special today,Neutral,3,12
+2023-09-06,Rajma Rice,dal was undercooked,Negative,1,27
+2023-09-06,Dal Rice,great taste today,Positive,5,44
+2023-09-06,Khichdi,could be better,Neutral,3,34
+2023-09-06,Curd Rice,paneer was delicious,Positive,5,107
+2023-09-06,Roti Sabzi,really enjoyed the food,Positive,4,75
+2023-09-07,Fried Rice,food was amazing today!,Positive,4,34
+2023-09-07,Paratha,tasteless food,Negative,1,41
+2023-09-07,Poha,food was amazing today!,Positive,5,100
+2023-09-07,Dal Rice,really enjoyed the food,Positive,5,74
+2023-09-07,Biryani,loved the biryani!,Positive,4,40
+2023-09-08,Rajma Rice,rice was overcooked,Negative,2,54
+2023-09-08,Roti Sabzi,best meal this week,Positive,4,46
+2023-09-08,Paneer Butter Masala,food was amazing today!,Positive,4,119
+2023-09-08,Khichdi,average as usual,Neutral,3,92
+2023-09-08,Paratha,excellent quality today,Positive,5,93
+2023-09-09,Chole Bhature,very bad quality today,Negative,1,38
+2023-09-09,Biryani,best meal this week,Positive,5,64
+2023-09-09,Idli Sambar,not fresh at all,Negative,2,42
+2023-09-09,Curd Rice,best meal this week,Positive,5,84
+2023-09-09,Roti Sabzi,really enjoyed the food,Positive,5,48
+2023-09-10,Curd Rice,not fresh at all,Negative,2,43
+2023-09-10,Poha,acceptable quality,Neutral,3,34
+2023-09-10,Roti Sabzi,excellent quality today,Positive,4,113
+2023-09-10,Khichdi,worst meal this month,Negative,2,97
+2023-09-10,Rajma Rice,food was amazing today!,Positive,5,47
+2023-09-11,Dal Rice,could be better,Neutral,3,53
+2023-09-11,Chole Bhature,average as usual,Neutral,3,95
+2023-09-11,Khichdi,best meal this week,Positive,4,117
+2023-09-11,Curd Rice,could be better,Neutral,3,47
+2023-09-11,Idli Sambar,very tasty and fresh,Positive,5,102
+2023-09-12,Fried Rice,excellent quality today,Positive,5,63
+2023-09-12,Biryani,nothing special today,Neutral,3,43
+2023-09-12,Paratha,decent meal,Neutral,3,70
+2023-09-12,Rajma Rice,loved the biryani!,Positive,5,34
+2023-09-12,Poha,paneer was delicious,Positive,5,62
+2023-09-13,Idli Sambar,great taste today,Positive,4,50
+2023-09-13,Paratha,very bad quality today,Negative,1,72
+2023-09-13,Khichdi,very tasty and fresh,Positive,5,91
+2023-09-13,Upma,great taste today,Positive,5,36
+2023-09-13,Rajma Rice,average as usual,Neutral,3,72
+2023-09-14,Fried Rice,decent meal,Neutral,3,71
+2023-09-14,Poha,food was amazing today!,Positive,4,103
+2023-09-14,Paratha,food was amazing today!,Positive,5,106
+2023-09-14,Paneer Butter Masala,tasteless food,Negative,1,96
+2023-09-14,Chole Bhature,excellent quality today,Positive,4,98
+2023-09-15,Rajma Rice,best meal this week,Positive,4,18
+2023-09-15,Dal Rice,cold food served again,Negative,2,68
+2023-09-15,Paratha,could be better,Neutral,3,65
+2023-09-15,Poha,very bad quality today,Negative,2,72
+2023-09-15,Chole Bhature,excellent quality today,Positive,4,113
+2023-09-16,Chole Bhature,food was amazing today!,Positive,4,25
+2023-09-16,Idli Sambar,food was amazing today!,Positive,5,91
+2023-09-16,Upma,food was amazing today!,Positive,4,94
+2023-09-16,Curd Rice,food was amazing today!,Positive,4,98
+2023-09-16,Paratha,great taste today,Positive,5,25
+2023-09-17,Biryani,acceptable quality,Neutral,3,48
+2023-09-17,Dal Rice,loved the biryani!,Positive,5,89
+2023-09-17,Roti Sabzi,average as usual,Neutral,3,116
+2023-09-17,Paratha,dal was undercooked,Negative,2,24
+2023-09-17,Upma,decent meal,Neutral,3,87
+2023-09-18,Upma,nothing special today,Neutral,3,15
+2023-09-18,Dal Rice,excellent quality today,Positive,5,52
+2023-09-18,Biryani,food was amazing today!,Positive,4,24
+2023-09-18,Fried Rice,rice was overcooked,Negative,1,21
+2023-09-18,Rajma Rice,food was okay,Neutral,3,42
+2023-09-19,Curd Rice,loved the biryani!,Positive,4,15
+2023-09-19,Upma,not fresh at all,Negative,2,64
+2023-09-19,Roti Sabzi,food was okay,Neutral,3,11
+2023-09-19,Dal Rice,very bad quality today,Negative,2,55
+2023-09-19,Paneer Butter Masala,cold food served again,Negative,1,57
+2023-09-20,Rajma Rice,cold food served again,Negative,2,98
+2023-09-20,Paratha,worst meal this month,Negative,1,24
+2023-09-20,Poha,food was amazing today!,Positive,4,23
+2023-09-20,Chole Bhature,great taste today,Positive,5,33
+2023-09-20,Paneer Butter Masala,nothing special today,Neutral,3,120
+2023-09-21,Curd Rice,paneer was delicious,Positive,5,15
+2023-09-21,Khichdi,really enjoyed the food,Positive,4,100
+2023-09-21,Paratha,tasteless food,Negative,2,76
+2023-09-21,Roti Sabzi,loved the biryani!,Positive,5,94
+2023-09-21,Paneer Butter Masala,decent meal,Neutral,3,94
+2023-09-22,Curd Rice,food was too salty,Negative,1,92
+2023-09-22,Fried Rice,rice was overcooked,Negative,2,31
+2023-09-22,Chole Bhature,great taste today,Positive,5,40
+2023-09-22,Paratha,best meal this week,Positive,4,74
+2023-09-22,Biryani,paneer was delicious,Positive,5,114
+2023-09-23,Upma,great taste today,Positive,5,50
+2023-09-23,Poha,great taste today,Positive,4,23
+2023-09-23,Roti Sabzi,food was amazing today!,Positive,4,115
+2023-09-23,Curd Rice,best meal this week,Positive,4,93
+2023-09-23,Paneer Butter Masala,nothing special today,Neutral,3,115
+2023-09-24,Idli Sambar,could be better,Neutral,3,101
+2023-09-24,Upma,acceptable quality,Neutral,3,24
+2023-09-24,Roti Sabzi,excellent quality today,Positive,4,53
+2023-09-24,Rajma Rice,best meal this week,Positive,5,99
+2023-09-24,Biryani,very tasty and fresh,Positive,5,27
+2023-09-25,Khichdi,average as usual,Neutral,3,119
+2023-09-25,Fried Rice,great taste today,Positive,4,101
+2023-09-25,Chole Bhature,paneer was delicious,Positive,4,91
+2023-09-25,Poha,dal was undercooked,Negative,2,68
+2023-09-25,Dal Rice,could be better,Neutral,3,73
+2023-09-26,Idli Sambar,rice was overcooked,Negative,1,98
+2023-09-26,Biryani,acceptable quality,Neutral,3,23
+2023-09-26,Fried Rice,really enjoyed the food,Positive,5,63
+2023-09-26,Khichdi,tasteless food,Negative,2,60
+2023-09-26,Chole Bhature,cold food served again,Negative,2,113
+2023-09-27,Paratha,really enjoyed the food,Positive,4,35
+2023-09-27,Fried Rice,best meal this week,Positive,5,96
+2023-09-27,Chole Bhature,very tasty and fresh,Positive,5,100
+2023-09-27,Paneer Butter Masala,really enjoyed the food,Positive,5,84
+2023-09-27,Biryani,acceptable quality,Neutral,3,96
+2023-09-28,Khichdi,food was amazing today!,Positive,5,28
+2023-09-28,Biryani,food was amazing today!,Positive,4,44
+2023-09-28,Dal Rice,average as usual,Neutral,3,97
+2023-09-28,Chole Bhature,food was amazing today!,Positive,5,36
+2023-09-28,Idli Sambar,food was okay,Neutral,3,114
+2023-09-29,Roti Sabzi,could be better,Neutral,3,40
+2023-09-29,Poha,best meal this week,Positive,4,58
+2023-09-29,Paneer Butter Masala,really enjoyed the food,Positive,4,11
+2023-09-29,Biryani,average as usual,Neutral,3,116
+2023-09-29,Upma,really enjoyed the food,Positive,4,109
+2023-09-30,Khichdi,dal was undercooked,Negative,1,32
+2023-09-30,Upma,food was okay,Neutral,3,15
+2023-09-30,Dal Rice,best meal this week,Positive,4,30
+2023-09-30,Roti Sabzi,nothing special today,Neutral,3,52
+2023-09-30,Paratha,very tasty and fresh,Positive,4,29
+2023-10-01,Rajma Rice,really enjoyed the food,Positive,4,110
+2023-10-01,Paneer Butter Masala,could be better,Neutral,3,33
+2023-10-01,Idli Sambar,very tasty and fresh,Positive,5,79
+2023-10-01,Khichdi,loved the biryani!,Positive,5,38
+2023-10-01,Dal Rice,not fresh at all,Negative,2,56
+2023-10-02,Dal Rice,food was too salty,Negative,1,95
+2023-10-02,Upma,excellent quality today,Positive,4,15
+2023-10-02,Paneer Butter Masala,nothing special today,Neutral,3,111
+2023-10-02,Biryani,worst meal this month,Negative,2,79
+2023-10-02,Roti Sabzi,food was okay,Neutral,3,75
+2023-10-03,Fried Rice,excellent quality today,Positive,5,75
+2023-10-03,Biryani,loved the biryani!,Positive,4,108
+2023-10-03,Roti Sabzi,food was amazing today!,Positive,4,36
+2023-10-03,Curd Rice,average as usual,Neutral,3,116
+2023-10-03,Idli Sambar,paneer was delicious,Positive,4,105
+2023-10-04,Curd Rice,loved the biryani!,Positive,4,32
+2023-10-04,Paratha,could be better,Neutral,3,83
+2023-10-04,Idli Sambar,cold food served again,Negative,2,59
+2023-10-04,Roti Sabzi,paneer was delicious,Positive,5,50
+2023-10-04,Rajma Rice,loved the biryani!,Positive,4,92
+2023-10-05,Khichdi,food was okay,Neutral,3,74
+2023-10-05,Paneer Butter Masala,best meal this week,Positive,4,46
+2023-10-05,Poha,decent meal,Neutral,3,60
+2023-10-05,Fried Rice,food was too salty,Negative,2,30
+2023-10-05,Idli Sambar,very tasty and fresh,Positive,5,111
+2023-10-06,Fried Rice,acceptable quality,Neutral,3,11
+2023-10-06,Biryani,could be better,Neutral,3,25
+2023-10-06,Dal Rice,paneer was delicious,Positive,4,49
+2023-10-06,Paratha,really enjoyed the food,Positive,4,62
+2023-10-06,Curd Rice,very bad quality today,Negative,1,33
+2023-10-07,Upma,food was amazing today!,Positive,5,92
+2023-10-07,Paneer Butter Masala,best meal this week,Positive,4,42
+2023-10-07,Dal Rice,great taste today,Positive,5,55
+2023-10-07,Fried Rice,excellent quality today,Positive,4,46
+2023-10-07,Poha,average as usual,Neutral,3,72
+2023-10-08,Roti Sabzi,nothing special today,Neutral,3,64
+2023-10-08,Rajma Rice,really enjoyed the food,Positive,4,110
+2023-10-08,Paneer Butter Masala,paneer was delicious,Positive,5,117
+2023-10-08,Dal Rice,really enjoyed the food,Positive,5,69
+2023-10-08,Paratha,best meal this week,Positive,5,80
+2023-10-09,Poha,very bad quality today,Negative,1,43
+2023-10-09,Paratha,acceptable quality,Neutral,3,103
+2023-10-09,Curd Rice,food was amazing today!,Positive,4,114
+2023-10-09,Paneer Butter Masala,decent meal,Neutral,3,14
+2023-10-09,Fried Rice,could be better,Neutral,3,93
+2023-10-10,Fried Rice,cold food served again,Negative,1,69
+2023-10-10,Paratha,loved the biryani!,Positive,5,56
+2023-10-10,Rajma Rice,excellent quality today,Positive,4,106
+2023-10-10,Chole Bhature,great taste today,Positive,4,32
+2023-10-10,Upma,could be better,Neutral,3,104
+2023-10-11,Khichdi,average as usual,Neutral,3,43
+2023-10-11,Roti Sabzi,food was amazing today!,Positive,4,76
+2023-10-11,Rajma Rice,not fresh at all,Negative,2,70
+2023-10-11,Idli Sambar,food was too salty,Negative,1,93
+2023-10-11,Upma,best meal this week,Positive,5,84
+2023-10-12,Biryani,loved the biryani!,Positive,5,58
+2023-10-12,Paneer Butter Masala,tasteless food,Negative,2,55
+2023-10-12,Paratha,not fresh at all,Negative,2,111
+2023-10-12,Chole Bhature,food was amazing today!,Positive,4,66
+2023-10-12,Khichdi,loved the biryani!,Positive,5,37
+2023-10-13,Paratha,decent meal,Neutral,3,102
+2023-10-13,Fried Rice,great taste today,Positive,5,36
+2023-10-13,Khichdi,acceptable quality,Neutral,3,12
+2023-10-13,Rajma Rice,very tasty and fresh,Positive,4,27
+2023-10-13,Poha,food was okay,Neutral,3,17
+2023-10-14,Paratha,could be better,Neutral,3,102
+2023-10-14,Dal Rice,nothing special today,Neutral,3,37
+2023-10-14,Fried Rice,great taste today,Positive,5,31
+2023-10-14,Biryani,paneer was delicious,Positive,4,111
+2023-10-14,Chole Bhature,average as usual,Neutral,3,31
+2023-10-15,Khichdi,paneer was delicious,Positive,4,23
+2023-10-15,Curd Rice,paneer was delicious,Positive,4,87
+2023-10-15,Rajma Rice,great taste today,Positive,4,110
+2023-10-15,Roti Sabzi,loved the biryani!,Positive,4,71
+2023-10-15,Poha,could be better,Neutral,3,109
+2023-10-16,Curd Rice,food was amazing today!,Positive,5,39
+2023-10-16,Fried Rice,rice was overcooked,Negative,2,54
+2023-10-16,Chole Bhature,acceptable quality,Neutral,3,64
+2023-10-16,Biryani,great taste today,Positive,4,119
+2023-10-16,Khichdi,paneer was delicious,Positive,5,34
+2023-10-17,Idli Sambar,food was amazing today!,Positive,5,93
+2023-10-17,Khichdi,really enjoyed the food,Positive,5,56
+2023-10-17,Fried Rice,paneer was delicious,Positive,5,43
+2023-10-17,Paneer Butter Masala,worst meal this month,Negative,2,88
+2023-10-17,Biryani,paneer was delicious,Positive,4,62
+2023-10-18,Biryani,decent meal,Neutral,3,49
+2023-10-18,Fried Rice,acceptable quality,Neutral,3,104
+2023-10-18,Roti Sabzi,loved the biryani!,Positive,4,67
+2023-10-18,Paratha,average as usual,Neutral,3,37
+2023-10-18,Rajma Rice,really enjoyed the food,Positive,4,30
+2023-10-19,Chole Bhature,paneer was delicious,Positive,4,18
+2023-10-19,Curd Rice,really enjoyed the food,Positive,4,87
+2023-10-19,Idli Sambar,paneer was delicious,Positive,5,88
+2023-10-19,Poha,nothing special today,Neutral,3,109
+2023-10-19,Paratha,rice was overcooked,Negative,2,11
+2023-10-20,Upma,excellent quality today,Positive,4,96
+2023-10-20,Curd Rice,excellent quality today,Positive,4,30
+2023-10-20,Biryani,best meal this week,Positive,5,55
+2023-10-20,Dal Rice,decent meal,Neutral,3,76
+2023-10-20,Fried Rice,loved the biryani!,Positive,4,80
+2023-10-21,Dal Rice,best meal this week,Positive,4,87
+2023-10-21,Khichdi,rice was overcooked,Negative,2,83
+2023-10-21,Biryani,very tasty and fresh,Positive,5,74
+2023-10-21,Paneer Butter Masala,loved the biryani!,Positive,5,53
+2023-10-21,Rajma Rice,cold food served again,Negative,2,98
+2023-10-22,Roti Sabzi,decent meal,Neutral,3,85
+2023-10-22,Chole Bhature,rice was overcooked,Negative,1,43
+2023-10-22,Paneer Butter Masala,excellent quality today,Positive,4,112
+2023-10-22,Fried Rice,really enjoyed the food,Positive,4,99
+2023-10-22,Upma,tasteless food,Negative,2,21
+2023-10-23,Chole Bhature,rice was overcooked,Negative,2,55
+2023-10-23,Curd Rice,best meal this week,Positive,4,105
+2023-10-23,Rajma Rice,average as usual,Neutral,3,104
+2023-10-23,Poha,excellent quality today,Positive,5,36
+2023-10-23,Biryani,excellent quality today,Positive,5,29
+2023-10-24,Fried Rice,could be better,Neutral,3,118
+2023-10-24,Poha,really enjoyed the food,Positive,5,83
+2023-10-24,Khichdi,rice was overcooked,Negative,1,107
+2023-10-24,Curd Rice,cold food served again,Negative,2,38
+2023-10-24,Roti Sabzi,average as usual,Neutral,3,77
+2023-10-25,Fried Rice,paneer was delicious,Positive,4,68
+2023-10-25,Chole Bhature,rice was overcooked,Negative,2,98
+2023-10-25,Roti Sabzi,excellent quality today,Positive,5,84
+2023-10-25,Biryani,really enjoyed the food,Positive,5,33
+2023-10-25,Idli Sambar,excellent quality today,Positive,5,70
+2023-10-26,Paneer Butter Masala,paneer was delicious,Positive,5,56
+2023-10-26,Rajma Rice,cold food served again,Negative,2,33
+2023-10-26,Khichdi,could be better,Neutral,3,114
+2023-10-26,Paratha,best meal this week,Positive,4,81
+2023-10-26,Roti Sabzi,paneer was delicious,Positive,4,28
+2023-10-27,Fried Rice,great taste today,Positive,4,118
+2023-10-27,Khichdi,could be better,Neutral,3,110
+2023-10-27,Paratha,best meal this week,Positive,4,60
+2023-10-27,Roti Sabzi,very tasty and fresh,Positive,4,37
+2023-10-27,Idli Sambar,rice was overcooked,Negative,1,67
+2023-10-28,Khichdi,nothing special today,Neutral,3,12
+2023-10-28,Rajma Rice,really enjoyed the food,Positive,4,83
+2023-10-28,Dal Rice,acceptable quality,Neutral,3,109
+2023-10-28,Fried Rice,really enjoyed the food,Positive,5,109
+2023-10-28,Paneer Butter Masala,food was okay,Neutral,3,88
+2023-10-29,Dal Rice,nothing special today,Neutral,3,90
+2023-10-29,Roti Sabzi,decent meal,Neutral,3,20
+2023-10-29,Curd Rice,excellent quality today,Positive,5,50
+2023-10-29,Paratha,acceptable quality,Neutral,3,87
+2023-10-29,Paneer Butter Masala,nothing special today,Neutral,3,109
+2023-10-30,Rajma Rice,very tasty and fresh,Positive,4,26
+2023-10-30,Khichdi,acceptable quality,Neutral,3,105
+2023-10-30,Paneer Butter Masala,food was okay,Neutral,3,31
+2023-10-30,Biryani,loved the biryani!,Positive,4,70
+2023-10-30,Roti Sabzi,food was amazing today!,Positive,5,77
+2023-10-31,Fried Rice,paneer was delicious,Positive,5,39
+2023-10-31,Poha,best meal this week,Positive,5,90
+2023-10-31,Khichdi,very tasty and fresh,Positive,4,14
+2023-10-31,Dal Rice,nothing special today,Neutral,3,69
+2023-10-31,Paratha,cold food served again,Negative,2,27
+2023-11-01,Khichdi,acceptable quality,Neutral,3,77
+2023-11-01,Biryani,could be better,Neutral,3,54
+2023-11-01,Paratha,excellent quality today,Positive,4,66
+2023-11-01,Paneer Butter Masala,paneer was delicious,Positive,5,29
+2023-11-01,Roti Sabzi,food was amazing today!,Positive,4,54
+2023-11-02,Dal Rice,rice was overcooked,Negative,2,11
+2023-11-02,Roti Sabzi,nothing special today,Neutral,3,111
+2023-11-02,Biryani,really enjoyed the food,Positive,4,62
+2023-11-02,Idli Sambar,worst meal this month,Negative,2,41
+2023-11-02,Khichdi,paneer was delicious,Positive,5,38
+2023-11-03,Dal Rice,could be better,Neutral,3,46
+2023-11-03,Poha,could be better,Neutral,3,62
+2023-11-03,Chole Bhature,loved the biryani!,Positive,4,27
+2023-11-03,Upma,great taste today,Positive,5,44
+2023-11-03,Biryani,decent meal,Neutral,3,51
+2023-11-04,Idli Sambar,loved the biryani!,Positive,5,44
+2023-11-04,Paratha,great taste today,Positive,4,39
+2023-11-04,Fried Rice,food was amazing today!,Positive,5,37
+2023-11-04,Biryani,best meal this week,Positive,5,57
+2023-11-04,Curd Rice,food was amazing today!,Positive,5,20
+2023-11-05,Fried Rice,great taste today,Positive,4,34
+2023-11-05,Paratha,cold food served again,Negative,2,116
+2023-11-05,Idli Sambar,excellent quality today,Positive,5,108
+2023-11-05,Dal Rice,tasteless food,Negative,1,35
+2023-11-05,Chole Bhature,loved the biryani!,Positive,4,70
+2023-11-06,Chole Bhature,food was okay,Neutral,3,42
+2023-11-06,Curd Rice,best meal this week,Positive,4,56
+2023-11-06,Dal Rice,tasteless food,Negative,1,40
+2023-11-06,Rajma Rice,nothing special today,Neutral,3,31
+2023-11-06,Paratha,could be better,Neutral,3,60
+2023-11-07,Fried Rice,average as usual,Neutral,3,108
+2023-11-07,Upma,very tasty and fresh,Positive,5,21
+2023-11-07,Idli Sambar,nothing special today,Neutral,3,17
+2023-11-07,Curd Rice,very tasty and fresh,Positive,4,26
+2023-11-07,Roti Sabzi,really enjoyed the food,Positive,5,113
+2023-11-08,Roti Sabzi,very tasty and fresh,Positive,5,15
+2023-11-08,Khichdi,great taste today,Positive,5,79
+2023-11-08,Upma,average as usual,Neutral,3,79
+2023-11-08,Idli Sambar,great taste today,Positive,5,116
+2023-11-08,Chole Bhature,could be better,Neutral,3,18
+2023-11-09,Biryani,great taste today,Positive,4,109
+2023-11-09,Paratha,decent meal,Neutral,3,12
+2023-11-09,Roti Sabzi,nothing special today,Neutral,3,51
+2023-11-09,Dal Rice,acceptable quality,Neutral,3,34
+2023-11-09,Paneer Butter Masala,great taste today,Positive,4,88
+2023-11-10,Dal Rice,loved the biryani!,Positive,4,116
+2023-11-10,Rajma Rice,very bad quality today,Negative,1,35
+2023-11-10,Chole Bhature,excellent quality today,Positive,4,14
+2023-11-10,Khichdi,decent meal,Neutral,3,77
+2023-11-10,Poha,could be better,Neutral,3,16
+2023-11-11,Rajma Rice,tasteless food,Negative,2,116
+2023-11-11,Upma,food was amazing today!,Positive,5,81
+2023-11-11,Paneer Butter Masala,decent meal,Neutral,3,111
+2023-11-11,Poha,could be better,Neutral,3,77
+2023-11-11,Idli Sambar,loved the biryani!,Positive,5,19
+2023-11-12,Upma,excellent quality today,Positive,4,77
+2023-11-12,Biryani,could be better,Neutral,3,81
+2023-11-12,Poha,decent meal,Neutral,3,108
+2023-11-12,Curd Rice,nothing special today,Neutral,3,99
+2023-11-12,Fried Rice,food was okay,Neutral,3,111
+2023-11-13,Paratha,could be better,Neutral,3,55
+2023-11-13,Biryani,not fresh at all,Negative,2,62
+2023-11-13,Chole Bhature,decent meal,Neutral,3,87
+2023-11-13,Khichdi,excellent quality today,Positive,5,108
+2023-11-13,Rajma Rice,acceptable quality,Neutral,3,56
+2023-11-14,Roti Sabzi,food was too salty,Negative,1,48
+2023-11-14,Fried Rice,excellent quality today,Positive,4,119
+2023-11-14,Chole Bhature,best meal this week,Positive,4,22
+2023-11-14,Idli Sambar,really enjoyed the food,Positive,4,27
+2023-11-14,Paneer Butter Masala,excellent quality today,Positive,4,42
+2023-11-15,Fried Rice,average as usual,Neutral,3,102
+2023-11-15,Dal Rice,great taste today,Positive,4,72
+2023-11-15,Poha,dal was undercooked,Negative,2,14
+2023-11-15,Paneer Butter Masala,could be better,Neutral,3,20
+2023-11-15,Chole Bhature,nothing special today,Neutral,3,114
+2023-11-16,Chole Bhature,acceptable quality,Neutral,3,16
+2023-11-16,Fried Rice,food was amazing today!,Positive,5,79
+2023-11-16,Poha,nothing special today,Neutral,3,29
+2023-11-16,Upma,paneer was delicious,Positive,5,106
+2023-11-16,Idli Sambar,could be better,Neutral,3,38
+2023-11-17,Chole Bhature,great taste today,Positive,4,80
+2023-11-17,Dal Rice,loved the biryani!,Positive,5,74
+2023-11-17,Fried Rice,very tasty and fresh,Positive,4,71
+2023-11-17,Paratha,decent meal,Neutral,3,93
+2023-11-17,Paneer Butter Masala,could be better,Neutral,3,41
+2023-11-18,Poha,paneer was delicious,Positive,5,56
+2023-11-18,Dal Rice,really enjoyed the food,Positive,5,86
+2023-11-18,Chole Bhature,nothing special today,Neutral,3,54
+2023-11-18,Rajma Rice,decent meal,Neutral,3,66
+2023-11-18,Fried Rice,excellent quality today,Positive,4,97
+2023-11-19,Rajma Rice,very tasty and fresh,Positive,5,11
+2023-11-19,Paratha,loved the biryani!,Positive,5,67
+2023-11-19,Poha,really enjoyed the food,Positive,4,104
+2023-11-19,Curd Rice,excellent quality today,Positive,5,80
+2023-11-19,Idli Sambar,very tasty and fresh,Positive,4,58
+2023-11-20,Paneer Butter Masala,best meal this week,Positive,4,111
+2023-11-20,Curd Rice,nothing special today,Neutral,3,69
+2023-11-20,Biryani,food was okay,Neutral,3,59
+2023-11-20,Idli Sambar,acceptable quality,Neutral,3,120
+2023-11-20,Dal Rice,best meal this week,Positive,5,39
+2023-11-21,Chole Bhature,dal was undercooked,Negative,1,35
+2023-11-21,Biryani,great taste today,Positive,4,15
+2023-11-21,Poha,best meal this week,Positive,5,72
+2023-11-21,Rajma Rice,very tasty and fresh,Positive,4,54
+2023-11-21,Roti Sabzi,nothing special today,Neutral,3,40
+2023-11-22,Biryani,food was too salty,Negative,2,38
+2023-11-22,Dal Rice,paneer was delicious,Positive,4,21
+2023-11-22,Idli Sambar,could be better,Neutral,3,63
+2023-11-22,Khichdi,very tasty and fresh,Positive,5,49
+2023-11-22,Chole Bhature,not fresh at all,Negative,2,79
+2023-11-23,Paratha,average as usual,Neutral,3,49
+2023-11-23,Upma,could be better,Neutral,3,65
+2023-11-23,Curd Rice,very bad quality today,Negative,1,50
+2023-11-23,Fried Rice,loved the biryani!,Positive,4,50
+2023-11-23,Biryani,very bad quality today,Negative,1,107
+2023-11-24,Rajma Rice,acceptable quality,Neutral,3,29
+2023-11-24,Chole Bhature,food was okay,Neutral,3,33
+2023-11-24,Khichdi,best meal this week,Positive,4,86
+2023-11-24,Dal Rice,food was amazing today!,Positive,5,20
+2023-11-24,Roti Sabzi,decent meal,Neutral,3,74
+2023-11-25,Paneer Butter Masala,rice was overcooked,Negative,2,27
+2023-11-25,Roti Sabzi,excellent quality today,Positive,4,62
+2023-11-25,Curd Rice,food was okay,Neutral,3,62
+2023-11-25,Rajma Rice,excellent quality today,Positive,4,18
+2023-11-25,Paratha,great taste today,Positive,5,98
+2023-11-26,Rajma Rice,could be better,Neutral,3,102
+2023-11-26,Roti Sabzi,food was amazing today!,Positive,4,67
+2023-11-26,Upma,food was amazing today!,Positive,4,76
+2023-11-26,Chole Bhature,food was amazing today!,Positive,5,76
+2023-11-26,Paneer Butter Masala,food was okay,Neutral,3,47
+2023-11-27,Roti Sabzi,best meal this week,Positive,4,98
+2023-11-27,Chole Bhature,very tasty and fresh,Positive,5,116
+2023-11-27,Dal Rice,food was okay,Neutral,3,33
+2023-11-27,Curd Rice,acceptable quality,Neutral,3,60
+2023-11-27,Fried Rice,great taste today,Positive,4,32
+2023-11-28,Roti Sabzi,very tasty and fresh,Positive,4,21
+2023-11-28,Paneer Butter Masala,great taste today,Positive,5,20
+2023-11-28,Upma,paneer was delicious,Positive,4,58
+2023-11-28,Fried Rice,food was okay,Neutral,3,52
+2023-11-28,Poha,acceptable quality,Neutral,3,30
+2023-11-29,Paratha,great taste today,Positive,5,90
+2023-11-29,Fried Rice,very tasty and fresh,Positive,4,10
+2023-11-29,Idli Sambar,nothing special today,Neutral,3,68
+2023-11-29,Chole Bhature,great taste today,Positive,4,87
+2023-11-29,Dal Rice,tasteless food,Negative,1,85
+2023-11-30,Curd Rice,food was amazing today!,Positive,4,80
+2023-11-30,Roti Sabzi,excellent quality today,Positive,4,33
+2023-11-30,Khichdi,really enjoyed the food,Positive,4,28
+2023-11-30,Chole Bhature,cold food served again,Negative,2,21
+2023-11-30,Fried Rice,paneer was delicious,Positive,4,30
+2023-12-01,Curd Rice,great taste today,Positive,5,14
+2023-12-01,Dal Rice,best meal this week,Positive,5,57
+2023-12-01,Paneer Butter Masala,dal was undercooked,Negative,2,117
+2023-12-01,Fried Rice,nothing special today,Neutral,3,27
+2023-12-01,Biryani,best meal this week,Positive,5,77
+2023-12-02,Chole Bhature,loved the biryani!,Positive,5,102
+2023-12-02,Biryani,acceptable quality,Neutral,3,64
+2023-12-02,Upma,nothing special today,Neutral,3,77
+2023-12-02,Curd Rice,could be better,Neutral,3,26
+2023-12-02,Idli Sambar,decent meal,Neutral,3,73
+2023-12-03,Fried Rice,food was too salty,Negative,1,13
+2023-12-03,Paratha,loved the biryani!,Positive,4,112
+2023-12-03,Paneer Butter Masala,decent meal,Neutral,3,15
+2023-12-03,Upma,excellent quality today,Positive,4,91
+2023-12-03,Dal Rice,best meal this week,Positive,5,111
+2023-12-04,Poha,food was amazing today!,Positive,4,97
+2023-12-04,Dal Rice,paneer was delicious,Positive,4,116
+2023-12-04,Khichdi,really enjoyed the food,Positive,5,96
+2023-12-04,Biryani,great taste today,Positive,4,92
+2023-12-04,Paneer Butter Masala,very tasty and fresh,Positive,5,120
+2023-12-05,Biryani,cold food served again,Negative,2,81
+2023-12-05,Rajma Rice,excellent quality today,Positive,5,112
+2023-12-05,Roti Sabzi,not fresh at all,Negative,1,29
+2023-12-05,Chole Bhature,food was amazing today!,Positive,5,58
+2023-12-05,Idli Sambar,average as usual,Neutral,3,33
+2023-12-06,Paneer Butter Masala,loved the biryani!,Positive,5,40
+2023-12-06,Poha,best meal this week,Positive,4,77
+2023-12-06,Dal Rice,loved the biryani!,Positive,5,110
+2023-12-06,Rajma Rice,excellent quality today,Positive,4,66
+2023-12-06,Idli Sambar,great taste today,Positive,4,34
+2023-12-07,Rajma Rice,loved the biryani!,Positive,4,36
+2023-12-07,Roti Sabzi,decent meal,Neutral,3,101
+2023-12-07,Biryani,dal was undercooked,Negative,1,49
+2023-12-07,Dal Rice,dal was undercooked,Negative,2,69
+2023-12-07,Fried Rice,dal was undercooked,Negative,2,12
+2023-12-08,Paneer Butter Masala,best meal this week,Positive,5,78
+2023-12-08,Dal Rice,great taste today,Positive,4,44
+2023-12-08,Curd Rice,best meal this week,Positive,4,11
+2023-12-08,Upma,dal was undercooked,Negative,1,79
+2023-12-08,Rajma Rice,really enjoyed the food,Positive,5,28
+2023-12-09,Khichdi,really enjoyed the food,Positive,5,16
+2023-12-09,Dal Rice,great taste today,Positive,4,23
+2023-12-09,Paneer Butter Masala,loved the biryani!,Positive,5,60
+2023-12-09,Upma,great taste today,Positive,5,49
+2023-12-09,Paratha,excellent quality today,Positive,4,106
+2023-12-10,Fried Rice,rice was overcooked,Negative,1,68
+2023-12-10,Roti Sabzi,great taste today,Positive,5,39
+2023-12-10,Paneer Butter Masala,very bad quality today,Negative,2,56
+2023-12-10,Paratha,really enjoyed the food,Positive,5,68
+2023-12-10,Poha,loved the biryani!,Positive,5,24
+2023-12-11,Rajma Rice,could be better,Neutral,3,75
+2023-12-11,Roti Sabzi,loved the biryani!,Positive,5,81
+2023-12-11,Khichdi,nothing special today,Neutral,3,61
+2023-12-11,Paratha,average as usual,Neutral,3,80
+2023-12-11,Dal Rice,great taste today,Positive,5,18
+2023-12-12,Rajma Rice,nothing special today,Neutral,3,32
+2023-12-12,Upma,food was okay,Neutral,3,24
+2023-12-12,Paneer Butter Masala,decent meal,Neutral,3,81
+2023-12-12,Chole Bhature,great taste today,Positive,4,49
+2023-12-12,Curd Rice,dal was undercooked,Negative,1,97
+2023-12-13,Paneer Butter Masala,very tasty and fresh,Positive,4,106
+2023-12-13,Chole Bhature,very tasty and fresh,Positive,5,78
+2023-12-13,Rajma Rice,great taste today,Positive,4,36
+2023-12-13,Roti Sabzi,nothing special today,Neutral,3,82
+2023-12-13,Idli Sambar,acceptable quality,Neutral,3,65
+2023-12-14,Khichdi,could be better,Neutral,3,118
+2023-12-14,Rajma Rice,best meal this week,Positive,4,57
+2023-12-14,Poha,food was too salty,Negative,1,100
+2023-12-14,Paneer Butter Masala,nothing special today,Neutral,3,120
+2023-12-14,Idli Sambar,food was amazing today!,Positive,4,65
+2023-12-15,Khichdi,paneer was delicious,Positive,4,94
+2023-12-15,Paneer Butter Masala,very tasty and fresh,Positive,4,81
+2023-12-15,Chole Bhature,really enjoyed the food,Positive,5,29
+2023-12-15,Rajma Rice,very tasty and fresh,Positive,4,11
+2023-12-15,Curd Rice,food was amazing today!,Positive,4,102
+2023-12-16,Roti Sabzi,paneer was delicious,Positive,5,110
+2023-12-16,Curd Rice,decent meal,Neutral,3,68
+2023-12-16,Chole Bhature,great taste today,Positive,5,55
+2023-12-16,Paratha,paneer was delicious,Positive,4,83
+2023-12-16,Poha,excellent quality today,Positive,5,62
+2023-12-17,Biryani,acceptable quality,Neutral,3,24
+2023-12-17,Paneer Butter Masala,acceptable quality,Neutral,3,28
+2023-12-17,Rajma Rice,could be better,Neutral,3,69
+2023-12-17,Idli Sambar,loved the biryani!,Positive,4,70
+2023-12-17,Khichdi,acceptable quality,Neutral,3,97
+2023-12-18,Curd Rice,food was too salty,Negative,2,68
+2023-12-18,Biryani,great taste today,Positive,5,63
+2023-12-18,Paneer Butter Masala,best meal this week,Positive,5,31
+2023-12-18,Dal Rice,best meal this week,Positive,5,17
+2023-12-18,Idli Sambar,could be better,Neutral,3,83
+2023-12-19,Idli Sambar,loved the biryani!,Positive,4,74
+2023-12-19,Curd Rice,best meal this week,Positive,5,26
+2023-12-19,Dal Rice,nothing special today,Neutral,3,11
+2023-12-19,Paneer Butter Masala,could be better,Neutral,3,85
+2023-12-19,Fried Rice,acceptable quality,Neutral,3,57
+2023-12-20,Fried Rice,food was amazing today!,Positive,5,20
+2023-12-20,Paratha,very bad quality today,Negative,2,106
+2023-12-20,Dal Rice,worst meal this month,Negative,1,94
+2023-12-20,Upma,very tasty and fresh,Positive,4,83
+2023-12-20,Roti Sabzi,nothing special today,Neutral,3,92
+2023-12-21,Dal Rice,best meal this week,Positive,5,105
+2023-12-21,Poha,tasteless food,Negative,2,97
+2023-12-21,Idli Sambar,decent meal,Neutral,3,28
+2023-12-21,Paratha,paneer was delicious,Positive,4,46
+2023-12-21,Roti Sabzi,rice was overcooked,Negative,2,96
+2023-12-22,Rajma Rice,not fresh at all,Negative,2,88
+2023-12-22,Biryani,cold food served again,Negative,2,44
+2023-12-22,Curd Rice,loved the biryani!,Positive,5,93
+2023-12-22,Idli Sambar,decent meal,Neutral,3,103
+2023-12-22,Poha,average as usual,Neutral,3,96
+2023-12-23,Khichdi,food was okay,Neutral,3,62
+2023-12-23,Paratha,loved the biryani!,Positive,5,54
+2023-12-23,Rajma Rice,best meal this week,Positive,5,34
+2023-12-23,Biryani,loved the biryani!,Positive,4,86
+2023-12-23,Idli Sambar,average as usual,Neutral,3,100
+2023-12-24,Poha,acceptable quality,Neutral,3,24
+2023-12-24,Fried Rice,nothing special today,Neutral,3,69
+2023-12-24,Paneer Butter Masala,food was okay,Neutral,3,45
+2023-12-24,Paratha,acceptable quality,Neutral,3,42
+2023-12-24,Chole Bhature,loved the biryani!,Positive,5,109
+2023-12-25,Idli Sambar,best meal this week,Positive,4,66
+2023-12-25,Chole Bhature,excellent quality today,Positive,5,32
+2023-12-25,Khichdi,food was okay,Neutral,3,79
+2023-12-25,Rajma Rice,average as usual,Neutral,3,66
+2023-12-25,Fried Rice,food was okay,Neutral,3,19
+2023-12-26,Poha,very bad quality today,Negative,1,14
+2023-12-26,Paneer Butter Masala,nothing special today,Neutral,3,99
+2023-12-26,Dal Rice,paneer was delicious,Positive,4,75
+2023-12-26,Roti Sabzi,decent meal,Neutral,3,65
+2023-12-26,Idli Sambar,loved the biryani!,Positive,4,10
+2023-12-27,Chole Bhature,not fresh at all,Negative,2,97
+2023-12-27,Khichdi,food was amazing today!,Positive,4,56
+2023-12-27,Roti Sabzi,really enjoyed the food,Positive,4,117
+2023-12-27,Poha,best meal this week,Positive,4,32
+2023-12-27,Biryani,decent meal,Neutral,3,48
+2023-12-28,Khichdi,great taste today,Positive,4,27
+2023-12-28,Chole Bhature,food was amazing today!,Positive,4,72
+2023-12-28,Poha,best meal this week,Positive,5,78
+2023-12-28,Rajma Rice,rice was overcooked,Negative,1,14
+2023-12-28,Roti Sabzi,really enjoyed the food,Positive,4,61
+2023-12-29,Poha,very bad quality today,Negative,1,19
+2023-12-29,Upma,very tasty and fresh,Positive,5,93
+2023-12-29,Curd Rice,food was amazing today!,Positive,4,99
+2023-12-29,Biryani,food was okay,Neutral,3,90
+2023-12-29,Roti Sabzi,best meal this week,Positive,4,68
+2023-12-30,Paneer Butter Masala,excellent quality today,Positive,4,112
+2023-12-30,Paratha,really enjoyed the food,Positive,5,51
+2023-12-30,Fried Rice,very tasty and fresh,Positive,5,117
+2023-12-30,Poha,tasteless food,Negative,1,85
+2023-12-30,Curd Rice,loved the biryani!,Positive,4,45
+2023-12-31,Paratha,excellent quality today,Positive,4,27
+2023-12-31,Chole Bhature,paneer was delicious,Positive,4,12
+2023-12-31,Fried Rice,dal was undercooked,Negative,1,10
+2023-12-31,Rajma Rice,loved the biryani!,Positive,5,63
+2023-12-31,Biryani,decent meal,Neutral,3,36
+2024-01-01,Paratha,very tasty and fresh,Positive,4,86
+2024-01-01,Curd Rice,great taste today,Positive,4,90
+2024-01-01,Dal Rice,cold food served again,Negative,2,63
+2024-01-01,Biryani,excellent quality today,Positive,4,25
+2024-01-01,Roti Sabzi,dal was undercooked,Negative,2,120
+2024-01-02,Fried Rice,acceptable quality,Neutral,3,45
+2024-01-02,Biryani,loved the biryani!,Positive,4,97
+2024-01-02,Khichdi,rice was overcooked,Negative,2,32
+2024-01-02,Upma,food was amazing today!,Positive,4,92
+2024-01-02,Roti Sabzi,excellent quality today,Positive,5,42
+2024-01-03,Rajma Rice,could be better,Neutral,3,30
+2024-01-03,Paneer Butter Masala,decent meal,Neutral,3,19
+2024-01-03,Roti Sabzi,rice was overcooked,Negative,2,63
+2024-01-03,Idli Sambar,really enjoyed the food,Positive,4,109
+2024-01-03,Poha,excellent quality today,Positive,4,40
+2024-01-04,Khichdi,great taste today,Positive,4,65
+2024-01-04,Chole Bhature,great taste today,Positive,4,59
+2024-01-04,Upma,great taste today,Positive,4,90
+2024-01-04,Fried Rice,best meal this week,Positive,4,52
+2024-01-04,Curd Rice,food was amazing today!,Positive,5,27
+2024-01-05,Poha,average as usual,Neutral,3,87
+2024-01-05,Roti Sabzi,very tasty and fresh,Positive,4,21
+2024-01-05,Khichdi,great taste today,Positive,4,85
+2024-01-05,Chole Bhature,great taste today,Positive,5,11
+2024-01-05,Paratha,acceptable quality,Neutral,3,41
+2024-01-06,Rajma Rice,food was too salty,Negative,2,15
+2024-01-06,Chole Bhature,great taste today,Positive,4,64
+2024-01-06,Paneer Butter Masala,great taste today,Positive,4,67
+2024-01-06,Upma,loved the biryani!,Positive,4,98
+2024-01-06,Paratha,average as usual,Neutral,3,55
+2024-01-07,Dal Rice,best meal this week,Positive,4,100
+2024-01-07,Upma,food was amazing today!,Positive,5,69
+2024-01-07,Curd Rice,acceptable quality,Neutral,3,33
+2024-01-07,Poha,nothing special today,Neutral,3,100
+2024-01-07,Idli Sambar,acceptable quality,Neutral,3,59
+2024-01-08,Khichdi,best meal this week,Positive,4,110
+2024-01-08,Rajma Rice,could be better,Neutral,3,104
+2024-01-08,Biryani,not fresh at all,Negative,1,24
+2024-01-08,Idli Sambar,great taste today,Positive,4,56
+2024-01-08,Dal Rice,loved the biryani!,Positive,4,27
+2024-01-09,Rajma Rice,could be better,Neutral,3,106
+2024-01-09,Upma,average as usual,Neutral,3,55
+2024-01-09,Biryani,worst meal this month,Negative,2,16
+2024-01-09,Poha,really enjoyed the food,Positive,5,72
+2024-01-09,Roti Sabzi,loved the biryani!,Positive,5,100
+2024-01-10,Biryani,acceptable quality,Neutral,3,34
+2024-01-10,Curd Rice,rice was overcooked,Negative,1,20
+2024-01-10,Fried Rice,very tasty and fresh,Positive,5,19
+2024-01-10,Dal Rice,best meal this week,Positive,4,99
+2024-01-10,Roti Sabzi,very tasty and fresh,Positive,4,76
+2024-01-11,Curd Rice,rice was overcooked,Negative,2,63
+2024-01-11,Idli Sambar,food was amazing today!,Positive,5,34
+2024-01-11,Dal Rice,excellent quality today,Positive,5,62
+2024-01-11,Chole Bhature,acceptable quality,Neutral,3,72
+2024-01-11,Biryani,acceptable quality,Neutral,3,68
+2024-01-12,Dal Rice,average as usual,Neutral,3,57
+2024-01-12,Paneer Butter Masala,food was too salty,Negative,1,55
+2024-01-12,Paratha,very tasty and fresh,Positive,4,101
+2024-01-12,Fried Rice,very tasty and fresh,Positive,4,117
+2024-01-12,Curd Rice,acceptable quality,Neutral,3,30
+2024-01-13,Upma,really enjoyed the food,Positive,4,36
+2024-01-13,Poha,food was okay,Neutral,3,54
+2024-01-13,Idli Sambar,great taste today,Positive,4,78
+2024-01-13,Rajma Rice,food was amazing today!,Positive,5,73
+2024-01-13,Paratha,decent meal,Neutral,3,29
+2024-01-14,Idli Sambar,nothing special today,Neutral,3,47
+2024-01-14,Khichdi,very bad quality today,Negative,2,53
+2024-01-14,Biryani,acceptable quality,Neutral,3,15
+2024-01-14,Curd Rice,loved the biryani!,Positive,5,13
+2024-01-14,Rajma Rice,excellent quality today,Positive,5,55
+2024-01-15,Poha,average as usual,Neutral,3,35
+2024-01-15,Rajma Rice,great taste today,Positive,4,75
+2024-01-15,Idli Sambar,great taste today,Positive,5,87
+2024-01-15,Paneer Butter Masala,food was okay,Neutral,3,60
+2024-01-15,Upma,paneer was delicious,Positive,5,59
+2024-01-16,Rajma Rice,great taste today,Positive,4,37
+2024-01-16,Idli Sambar,decent meal,Neutral,3,112
+2024-01-16,Dal Rice,very tasty and fresh,Positive,5,103
+2024-01-16,Fried Rice,very bad quality today,Negative,1,28
+2024-01-16,Paneer Butter Masala,great taste today,Positive,5,18
+2024-01-17,Paneer Butter Masala,nothing special today,Neutral,3,32
+2024-01-17,Chole Bhature,acceptable quality,Neutral,3,35
+2024-01-17,Poha,paneer was delicious,Positive,5,80
+2024-01-17,Idli Sambar,best meal this week,Positive,5,73
+2024-01-17,Khichdi,decent meal,Neutral,3,13
+2024-01-18,Fried Rice,rice was overcooked,Negative,1,93
+2024-01-18,Idli Sambar,nothing special today,Neutral,3,32
+2024-01-18,Paratha,excellent quality today,Positive,4,25
+2024-01-18,Dal Rice,decent meal,Neutral,3,86
+2024-01-18,Paneer Butter Masala,could be better,Neutral,3,82
+2024-01-19,Chole Bhature,food was amazing today!,Positive,5,30
+2024-01-19,Dal Rice,average as usual,Neutral,3,69
+2024-01-19,Curd Rice,very bad quality today,Negative,2,30
+2024-01-19,Roti Sabzi,really enjoyed the food,Positive,5,91
+2024-01-19,Poha,not fresh at all,Negative,1,47
+2024-01-20,Dal Rice,very tasty and fresh,Positive,4,86
+2024-01-20,Biryani,could be better,Neutral,3,50
+2024-01-20,Curd Rice,cold food served again,Negative,2,97
+2024-01-20,Poha,nothing special today,Neutral,3,78
+2024-01-20,Khichdi,average as usual,Neutral,3,27
+2024-01-21,Biryani,very tasty and fresh,Positive,4,37
+2024-01-21,Dal Rice,excellent quality today,Positive,4,111
+2024-01-21,Rajma Rice,dal was undercooked,Negative,2,68
+2024-01-21,Roti Sabzi,dal was undercooked,Negative,1,12
+2024-01-21,Chole Bhature,best meal this week,Positive,5,27
+2024-01-22,Roti Sabzi,food was okay,Neutral,3,38
+2024-01-22,Paneer Butter Masala,very tasty and fresh,Positive,4,49
+2024-01-22,Biryani,very tasty and fresh,Positive,4,64
+2024-01-22,Rajma Rice,food was okay,Neutral,3,12
+2024-01-22,Paratha,decent meal,Neutral,3,35
+2024-01-23,Poha,best meal this week,Positive,4,18
+2024-01-23,Idli Sambar,food was amazing today!,Positive,4,110
+2024-01-23,Curd Rice,excellent quality today,Positive,4,33
+2024-01-23,Biryani,food was okay,Neutral,3,28
+2024-01-23,Khichdi,cold food served again,Negative,2,55
+2024-01-24,Paratha,food was okay,Neutral,3,77
+2024-01-24,Biryani,excellent quality today,Positive,5,31
+2024-01-24,Paneer Butter Masala,food was too salty,Negative,1,37
+2024-01-24,Upma,rice was overcooked,Negative,2,99
+2024-01-24,Khichdi,decent meal,Neutral,3,33
+2024-01-25,Rajma Rice,loved the biryani!,Positive,5,25
+2024-01-25,Chole Bhature,very tasty and fresh,Positive,5,107
+2024-01-25,Khichdi,best meal this week,Positive,4,20
+2024-01-25,Upma,loved the biryani!,Positive,5,46
+2024-01-25,Biryani,best meal this week,Positive,5,38
+2024-01-26,Biryani,rice was overcooked,Negative,2,32
+2024-01-26,Chole Bhature,great taste today,Positive,4,60
+2024-01-26,Dal Rice,loved the biryani!,Positive,4,28
+2024-01-26,Khichdi,loved the biryani!,Positive,4,18
+2024-01-26,Upma,excellent quality today,Positive,5,35
+2024-01-27,Paneer Butter Masala,nothing special today,Neutral,3,106
+2024-01-27,Chole Bhature,acceptable quality,Neutral,3,55
+2024-01-27,Poha,paneer was delicious,Positive,5,75
+2024-01-27,Upma,great taste today,Positive,4,25
+2024-01-27,Khichdi,great taste today,Positive,4,90
+2024-01-28,Paratha,food was amazing today!,Positive,4,58
+2024-01-28,Idli Sambar,nothing special today,Neutral,3,48
+2024-01-28,Poha,food was okay,Neutral,3,94
+2024-01-28,Khichdi,decent meal,Neutral,3,35
+2024-01-28,Curd Rice,great taste today,Positive,5,74
+2024-01-29,Dal Rice,food was amazing today!,Positive,5,25
+2024-01-29,Biryani,really enjoyed the food,Positive,5,66
+2024-01-29,Rajma Rice,food was amazing today!,Positive,4,81
+2024-01-29,Khichdi,nothing special today,Neutral,3,72
+2024-01-29,Paneer Butter Masala,best meal this week,Positive,5,72
+2024-01-30,Fried Rice,could be better,Neutral,3,70
+2024-01-30,Poha,average as usual,Neutral,3,60
+2024-01-30,Paneer Butter Masala,paneer was delicious,Positive,5,108
+2024-01-30,Roti Sabzi,not fresh at all,Negative,1,13
+2024-01-30,Biryani,average as usual,Neutral,3,54
+2024-01-31,Fried Rice,paneer was delicious,Positive,5,55
+2024-01-31,Khichdi,food was amazing today!,Positive,4,41
+2024-01-31,Paneer Butter Masala,best meal this week,Positive,4,98
+2024-01-31,Idli Sambar,best meal this week,Positive,4,53
+2024-01-31,Rajma Rice,really enjoyed the food,Positive,4,68
+2024-02-01,Curd Rice,great taste today,Positive,4,50
+2024-02-01,Chole Bhature,paneer was delicious,Positive,5,83
+2024-02-01,Paneer Butter Masala,great taste today,Positive,4,98
+2024-02-01,Biryani,nothing special today,Neutral,3,74
+2024-02-01,Khichdi,not fresh at all,Negative,1,88
+2024-02-02,Dal Rice,food was okay,Neutral,3,46
+2024-02-02,Rajma Rice,best meal this week,Positive,5,112
+2024-02-02,Chole Bhature,loved the biryani!,Positive,4,85
+2024-02-02,Upma,loved the biryani!,Positive,5,64
+2024-02-02,Roti Sabzi,loved the biryani!,Positive,5,74
+2024-02-03,Fried Rice,paneer was delicious,Positive,5,89
+2024-02-03,Dal Rice,very tasty and fresh,Positive,4,90
+2024-02-03,Chole Bhature,average as usual,Neutral,3,37
+2024-02-03,Biryani,acceptable quality,Neutral,3,44
+2024-02-03,Rajma Rice,worst meal this month,Negative,1,76
+2024-02-04,Upma,best meal this week,Positive,5,62
+2024-02-04,Rajma Rice,loved the biryani!,Positive,4,118
+2024-02-04,Roti Sabzi,best meal this week,Positive,4,42
+2024-02-04,Paratha,average as usual,Neutral,3,40
+2024-02-04,Fried Rice,excellent quality today,Positive,4,41
+2024-02-05,Fried Rice,worst meal this month,Negative,1,35
+2024-02-05,Dal Rice,very tasty and fresh,Positive,4,43
+2024-02-05,Roti Sabzi,nothing special today,Neutral,3,92
+2024-02-05,Curd Rice,rice was overcooked,Negative,1,17
+2024-02-05,Biryani,dal was undercooked,Negative,2,87
+2024-02-06,Dal Rice,very tasty and fresh,Positive,4,24
+2024-02-06,Poha,could be better,Neutral,3,76
+2024-02-06,Chole Bhature,could be better,Neutral,3,73
+2024-02-06,Rajma Rice,tasteless food,Negative,1,108
+2024-02-06,Khichdi,not fresh at all,Negative,2,113
+2024-02-07,Khichdi,very tasty and fresh,Positive,4,45
+2024-02-07,Fried Rice,best meal this week,Positive,4,72
+2024-02-07,Upma,loved the biryani!,Positive,5,79
+2024-02-07,Chole Bhature,excellent quality today,Positive,5,110
+2024-02-07,Curd Rice,not fresh at all,Negative,2,101
+2024-02-08,Rajma Rice,food was too salty,Negative,1,42
+2024-02-08,Dal Rice,nothing special today,Neutral,3,113
+2024-02-08,Idli Sambar,could be better,Neutral,3,119
+2024-02-08,Paneer Butter Masala,food was amazing today!,Positive,5,42
+2024-02-08,Curd Rice,excellent quality today,Positive,5,36
+2024-02-09,Paratha,nothing special today,Neutral,3,115
+2024-02-09,Roti Sabzi,decent meal,Neutral,3,104
+2024-02-09,Curd Rice,really enjoyed the food,Positive,5,114
+2024-02-09,Rajma Rice,very tasty and fresh,Positive,5,74
+2024-02-09,Chole Bhature,paneer was delicious,Positive,5,68
+2024-02-10,Khichdi,average as usual,Neutral,3,61
+2024-02-10,Idli Sambar,best meal this week,Positive,5,83
+2024-02-10,Fried Rice,very tasty and fresh,Positive,4,76
+2024-02-10,Paratha,acceptable quality,Neutral,3,118
+2024-02-10,Roti Sabzi,decent meal,Neutral,3,67
+2024-02-11,Roti Sabzi,nothing special today,Neutral,3,35
+2024-02-11,Khichdi,really enjoyed the food,Positive,4,60
+2024-02-11,Paratha,tasteless food,Negative,1,12
+2024-02-11,Dal Rice,tasteless food,Negative,1,69
+2024-02-11,Curd Rice,very tasty and fresh,Positive,4,61
+2024-02-12,Paneer Butter Masala,really enjoyed the food,Positive,4,82
+2024-02-12,Chole Bhature,paneer was delicious,Positive,5,115
+2024-02-12,Fried Rice,food was okay,Neutral,3,101
+2024-02-12,Dal Rice,best meal this week,Positive,5,105
+2024-02-12,Paratha,very tasty and fresh,Positive,5,119
+2024-02-13,Upma,paneer was delicious,Positive,4,13
+2024-02-13,Paneer Butter Masala,best meal this week,Positive,4,89
+2024-02-13,Fried Rice,excellent quality today,Positive,5,84
+2024-02-13,Dal Rice,decent meal,Neutral,3,11
+2024-02-13,Curd Rice,really enjoyed the food,Positive,5,97
+2024-02-14,Upma,food was amazing today!,Positive,4,52
+2024-02-14,Khichdi,rice was overcooked,Negative,2,87
+2024-02-14,Chole Bhature,food was too salty,Negative,1,42
+2024-02-14,Curd Rice,paneer was delicious,Positive,5,60
+2024-02-14,Dal Rice,average as usual,Neutral,3,84
+2024-02-15,Paratha,rice was overcooked,Negative,1,21
+2024-02-15,Dal Rice,paneer was delicious,Positive,4,43
+2024-02-15,Fried Rice,food was amazing today!,Positive,4,73
+2024-02-15,Biryani,cold food served again,Negative,2,65
+2024-02-15,Roti Sabzi,best meal this week,Positive,5,76
+2024-02-16,Rajma Rice,average as usual,Neutral,3,16
+2024-02-16,Chole Bhature,food was amazing today!,Positive,4,33
+2024-02-16,Paratha,best meal this week,Positive,4,100
+2024-02-16,Fried Rice,loved the biryani!,Positive,5,15
+2024-02-16,Roti Sabzi,great taste today,Positive,5,73
+2024-02-17,Poha,best meal this week,Positive,4,116
+2024-02-17,Khichdi,best meal this week,Positive,4,84
+2024-02-17,Paratha,food was too salty,Negative,1,63
+2024-02-17,Fried Rice,tasteless food,Negative,2,96
+2024-02-17,Rajma Rice,really enjoyed the food,Positive,4,46
+2024-02-18,Curd Rice,food was okay,Neutral,3,29
+2024-02-18,Fried Rice,great taste today,Positive,5,68
+2024-02-18,Poha,nothing special today,Neutral,3,52
+2024-02-18,Chole Bhature,rice was overcooked,Negative,2,103
+2024-02-18,Rajma Rice,very bad quality today,Negative,1,120
+2024-02-19,Idli Sambar,could be better,Neutral,3,21
+2024-02-19,Curd Rice,very tasty and fresh,Positive,4,108
+2024-02-19,Dal Rice,dal was undercooked,Negative,1,119
+2024-02-19,Rajma Rice,paneer was delicious,Positive,5,46
+2024-02-19,Fried Rice,acceptable quality,Neutral,3,25
+2024-02-20,Dal Rice,loved the biryani!,Positive,5,75
+2024-02-20,Roti Sabzi,great taste today,Positive,5,70
+2024-02-20,Chole Bhature,paneer was delicious,Positive,4,106
+2024-02-20,Fried Rice,really enjoyed the food,Positive,4,65
+2024-02-20,Paratha,food was okay,Neutral,3,75
+2024-02-21,Rajma Rice,dal was undercooked,Negative,2,69
+2024-02-21,Roti Sabzi,great taste today,Positive,5,29
+2024-02-21,Curd Rice,cold food served again,Negative,1,76
+2024-02-21,Upma,food was amazing today!,Positive,4,15
+2024-02-21,Paratha,paneer was delicious,Positive,5,22
+2024-02-22,Roti Sabzi,loved the biryani!,Positive,4,24
+2024-02-22,Curd Rice,decent meal,Neutral,3,110
+2024-02-22,Paneer Butter Masala,paneer was delicious,Positive,4,20
+2024-02-22,Dal Rice,best meal this week,Positive,5,85
+2024-02-22,Rajma Rice,acceptable quality,Neutral,3,89
+2024-02-23,Fried Rice,best meal this week,Positive,4,65
+2024-02-23,Dal Rice,food was amazing today!,Positive,5,24
+2024-02-23,Rajma Rice,great taste today,Positive,5,98
+2024-02-23,Paratha,great taste today,Positive,5,89
+2024-02-23,Upma,not fresh at all,Negative,2,112
+2024-02-24,Dal Rice,food was amazing today!,Positive,4,119
+2024-02-24,Poha,great taste today,Positive,4,93
+2024-02-24,Paratha,excellent quality today,Positive,4,48
+2024-02-24,Curd Rice,average as usual,Neutral,3,64
+2024-02-24,Idli Sambar,very tasty and fresh,Positive,4,104
+2024-02-25,Khichdi,tasteless food,Negative,1,47
+2024-02-25,Roti Sabzi,decent meal,Neutral,3,52
+2024-02-25,Fried Rice,paneer was delicious,Positive,5,118
+2024-02-25,Curd Rice,best meal this week,Positive,4,72
+2024-02-25,Idli Sambar,great taste today,Positive,4,101
+2024-02-26,Idli Sambar,nothing special today,Neutral,3,70
+2024-02-26,Biryani,really enjoyed the food,Positive,5,99
+2024-02-26,Fried Rice,very tasty and fresh,Positive,5,102
+2024-02-26,Chole Bhature,really enjoyed the food,Positive,5,39
+2024-02-26,Rajma Rice,really enjoyed the food,Positive,5,26
+2024-02-27,Dal Rice,average as usual,Neutral,3,46
+2024-02-27,Khichdi,food was okay,Neutral,3,26
+2024-02-27,Chole Bhature,very tasty and fresh,Positive,5,22
+2024-02-27,Curd Rice,decent meal,Neutral,3,40
+2024-02-27,Rajma Rice,food was amazing today!,Positive,4,55
+2024-02-28,Dal Rice,food was too salty,Negative,1,53
+2024-02-28,Rajma Rice,excellent quality today,Positive,4,81
+2024-02-28,Curd Rice,best meal this week,Positive,5,110
+2024-02-28,Paratha,food was amazing today!,Positive,5,29
+2024-02-28,Paneer Butter Masala,dal was undercooked,Negative,1,66
+2024-02-29,Fried Rice,food was too salty,Negative,1,31
+2024-02-29,Roti Sabzi,average as usual,Neutral,3,30
+2024-02-29,Poha,acceptable quality,Neutral,3,107
+2024-02-29,Curd Rice,loved the biryani!,Positive,4,92
+2024-02-29,Paneer Butter Masala,very tasty and fresh,Positive,4,118
+2024-03-01,Upma,rice was overcooked,Negative,2,46
+2024-03-01,Roti Sabzi,loved the biryani!,Positive,5,57
+2024-03-01,Chole Bhature,decent meal,Neutral,3,90
+2024-03-01,Idli Sambar,average as usual,Neutral,3,110
+2024-03-01,Fried Rice,paneer was delicious,Positive,5,62
+2024-03-02,Roti Sabzi,food was amazing today!,Positive,4,20
+2024-03-02,Biryani,paneer was delicious,Positive,4,65
+2024-03-02,Curd Rice,food was amazing today!,Positive,4,83
+2024-03-02,Rajma Rice,best meal this week,Positive,5,61
+2024-03-02,Idli Sambar,cold food served again,Negative,2,54
+2024-03-03,Idli Sambar,decent meal,Neutral,3,79
+2024-03-03,Dal Rice,could be better,Neutral,3,99
+2024-03-03,Biryani,paneer was delicious,Positive,4,48
+2024-03-03,Paneer Butter Masala,really enjoyed the food,Positive,5,102
+2024-03-03,Paratha,average as usual,Neutral,3,37
+2024-03-04,Poha,very tasty and fresh,Positive,4,13
+2024-03-04,Biryani,cold food served again,Negative,1,116
+2024-03-04,Khichdi,acceptable quality,Neutral,3,74
+2024-03-04,Dal Rice,food was amazing today!,Positive,5,43
+2024-03-04,Curd Rice,nothing special today,Neutral,3,16
+2024-03-05,Fried Rice,food was okay,Neutral,3,53
+2024-03-05,Curd Rice,tasteless food,Negative,2,48
+2024-03-05,Poha,very tasty and fresh,Positive,5,76
+2024-03-05,Roti Sabzi,food was okay,Neutral,3,76
+2024-03-05,Dal Rice,nothing special today,Neutral,3,22
+2024-03-06,Paratha,paneer was delicious,Positive,4,70
+2024-03-06,Khichdi,loved the biryani!,Positive,5,96
+2024-03-06,Chole Bhature,paneer was delicious,Positive,5,84
+2024-03-06,Curd Rice,paneer was delicious,Positive,5,98
+2024-03-06,Poha,rice was overcooked,Negative,2,115
+2024-03-07,Paratha,average as usual,Neutral,3,98
+2024-03-07,Fried Rice,great taste today,Positive,4,105
+2024-03-07,Biryani,really enjoyed the food,Positive,4,87
+2024-03-07,Khichdi,dal was undercooked,Negative,1,57
+2024-03-07,Roti Sabzi,food was okay,Neutral,3,25
+2024-03-08,Rajma Rice,very tasty and fresh,Positive,4,110
+2024-03-08,Dal Rice,food was okay,Neutral,3,46
+2024-03-08,Fried Rice,great taste today,Positive,4,25
+2024-03-08,Khichdi,loved the biryani!,Positive,4,63
+2024-03-08,Paneer Butter Masala,best meal this week,Positive,5,53
+2024-03-09,Fried Rice,could be better,Neutral,3,107
+2024-03-09,Chole Bhature,great taste today,Positive,4,120
+2024-03-09,Roti Sabzi,food was okay,Neutral,3,59
+2024-03-09,Paneer Butter Masala,paneer was delicious,Positive,5,79
+2024-03-09,Paratha,great taste today,Positive,5,92
+2024-03-10,Poha,food was okay,Neutral,3,34
+2024-03-10,Paratha,food was too salty,Negative,1,106
+2024-03-10,Idli Sambar,food was amazing today!,Positive,4,94
+2024-03-10,Paneer Butter Masala,very bad quality today,Negative,1,45
+2024-03-10,Dal Rice,average as usual,Neutral,3,20
+2024-03-11,Fried Rice,decent meal,Neutral,3,53
+2024-03-11,Biryani,paneer was delicious,Positive,4,120
+2024-03-11,Paneer Butter Masala,paneer was delicious,Positive,5,21
+2024-03-11,Rajma Rice,loved the biryani!,Positive,4,46
+2024-03-11,Chole Bhature,best meal this week,Positive,4,29
+2024-03-12,Dal Rice,nothing special today,Neutral,3,13
+2024-03-12,Chole Bhature,nothing special today,Neutral,3,22
+2024-03-12,Curd Rice,paneer was delicious,Positive,5,43
+2024-03-12,Paratha,loved the biryani!,Positive,4,35
+2024-03-12,Idli Sambar,excellent quality today,Positive,5,75
+2024-03-13,Fried Rice,great taste today,Positive,5,18
+2024-03-13,Biryani,paneer was delicious,Positive,4,12
+2024-03-13,Chole Bhature,loved the biryani!,Positive,4,107
+2024-03-13,Poha,average as usual,Neutral,3,82
+2024-03-13,Dal Rice,loved the biryani!,Positive,4,110
+2024-03-14,Paratha,paneer was delicious,Positive,5,15
+2024-03-14,Rajma Rice,great taste today,Positive,5,93
+2024-03-14,Biryani,food was too salty,Negative,1,71
+2024-03-14,Fried Rice,best meal this week,Positive,5,54
+2024-03-14,Upma,tasteless food,Negative,2,15
+2024-03-15,Paratha,paneer was delicious,Positive,4,116
+2024-03-15,Khichdi,best meal this week,Positive,5,36
+2024-03-15,Biryani,nothing special today,Neutral,3,91
+2024-03-15,Paneer Butter Masala,great taste today,Positive,5,41
+2024-03-15,Poha,nothing special today,Neutral,3,36
+2024-03-16,Roti Sabzi,food was okay,Neutral,3,10
+2024-03-16,Paneer Butter Masala,very bad quality today,Negative,2,81
+2024-03-16,Rajma Rice,rice was overcooked,Negative,2,78
+2024-03-16,Idli Sambar,loved the biryani!,Positive,4,116
+2024-03-16,Paratha,rice was overcooked,Negative,1,55
+2024-03-17,Chole Bhature,food was too salty,Negative,1,69
+2024-03-17,Paneer Butter Masala,excellent quality today,Positive,5,11
+2024-03-17,Rajma Rice,food was amazing today!,Positive,5,97
+2024-03-17,Fried Rice,not fresh at all,Negative,1,21
+2024-03-17,Paratha,cold food served again,Negative,1,39
+2024-03-18,Roti Sabzi,tasteless food,Negative,1,35
+2024-03-18,Rajma Rice,worst meal this month,Negative,1,45
+2024-03-18,Idli Sambar,decent meal,Neutral,3,80
+2024-03-18,Dal Rice,very tasty and fresh,Positive,4,85
+2024-03-18,Fried Rice,loved the biryani!,Positive,4,43
+2024-03-19,Paneer Butter Masala,food was too salty,Negative,2,97
+2024-03-19,Upma,decent meal,Neutral,3,64
+2024-03-19,Biryani,acceptable quality,Neutral,3,119
+2024-03-19,Dal Rice,worst meal this month,Negative,2,45
+2024-03-19,Khichdi,great taste today,Positive,5,56
+2024-03-20,Biryani,rice was overcooked,Negative,2,10
+2024-03-20,Idli Sambar,really enjoyed the food,Positive,4,83
+2024-03-20,Upma,tasteless food,Negative,2,19
+2024-03-20,Khichdi,tasteless food,Negative,1,52
+2024-03-20,Dal Rice,loved the biryani!,Positive,4,71
+2024-03-21,Chole Bhature,great taste today,Positive,4,53
+2024-03-21,Idli Sambar,not fresh at all,Negative,1,19
+2024-03-21,Paneer Butter Masala,could be better,Neutral,3,107
+2024-03-21,Rajma Rice,great taste today,Positive,4,20
+2024-03-21,Dal Rice,food was too salty,Negative,2,50
+2024-03-22,Khichdi,paneer was delicious,Positive,4,23
+2024-03-22,Poha,could be better,Neutral,3,47
+2024-03-22,Paratha,worst meal this month,Negative,1,89
+2024-03-22,Idli Sambar,average as usual,Neutral,3,68
+2024-03-22,Roti Sabzi,paneer was delicious,Positive,4,53
+2024-03-23,Curd Rice,excellent quality today,Positive,4,23
+2024-03-23,Fried Rice,loved the biryani!,Positive,4,83
+2024-03-23,Idli Sambar,best meal this week,Positive,5,63
+2024-03-23,Roti Sabzi,great taste today,Positive,4,41
+2024-03-23,Biryani,food was amazing today!,Positive,4,26
+2024-03-24,Dal Rice,very tasty and fresh,Positive,4,70
+2024-03-24,Paneer Butter Masala,really enjoyed the food,Positive,5,57
+2024-03-24,Chole Bhature,very bad quality today,Negative,1,40
+2024-03-24,Biryani,food was amazing today!,Positive,5,54
+2024-03-24,Rajma Rice,excellent quality today,Positive,4,110
+2024-03-25,Poha,nothing special today,Neutral,3,88
+2024-03-25,Rajma Rice,really enjoyed the food,Positive,4,23
+2024-03-25,Upma,food was amazing today!,Positive,5,38
+2024-03-25,Roti Sabzi,tasteless food,Negative,1,69
+2024-03-25,Paneer Butter Masala,average as usual,Neutral,3,104
+2024-03-26,Fried Rice,food was amazing today!,Positive,5,11
+2024-03-26,Rajma Rice,food was amazing today!,Positive,4,28
+2024-03-26,Chole Bhature,excellent quality today,Positive,5,15
+2024-03-26,Upma,tasteless food,Negative,1,46
+2024-03-26,Curd Rice,best meal this week,Positive,4,53
+2024-03-27,Biryani,best meal this week,Positive,4,12
+2024-03-27,Upma,very bad quality today,Negative,2,93
+2024-03-27,Paratha,food was okay,Neutral,3,36
+2024-03-27,Khichdi,excellent quality today,Positive,5,113
+2024-03-27,Idli Sambar,very tasty and fresh,Positive,5,101
+2024-03-28,Poha,paneer was delicious,Positive,5,50
+2024-03-28,Fried Rice,acceptable quality,Neutral,3,15
+2024-03-28,Paratha,could be better,Neutral,3,119
+2024-03-28,Curd Rice,very tasty and fresh,Positive,5,41
+2024-03-28,Upma,best meal this week,Positive,4,118
+2024-03-29,Biryani,acceptable quality,Neutral,3,31
+2024-03-29,Paneer Butter Masala,really enjoyed the food,Positive,5,76
+2024-03-29,Roti Sabzi,really enjoyed the food,Positive,5,77
+2024-03-29,Upma,acceptable quality,Neutral,3,70
+2024-03-29,Poha,paneer was delicious,Positive,4,36
+2024-03-30,Upma,paneer was delicious,Positive,5,83
+2024-03-30,Fried Rice,really enjoyed the food,Positive,5,80
+2024-03-30,Roti Sabzi,loved the biryani!,Positive,5,66
+2024-03-30,Khichdi,excellent quality today,Positive,4,69
+2024-03-30,Chole Bhature,really enjoyed the food,Positive,5,67
+2024-03-31,Roti Sabzi,paneer was delicious,Positive,4,32
+2024-03-31,Chole Bhature,best meal this week,Positive,4,55
+2024-03-31,Khichdi,cold food served again,Negative,1,110
+2024-03-31,Rajma Rice,excellent quality today,Positive,4,25
+2024-03-31,Fried Rice,food was amazing today!,Positive,4,52
+2024-04-01,Upma,acceptable quality,Neutral,3,34
+2024-04-01,Curd Rice,average as usual,Neutral,3,11
+2024-04-01,Rajma Rice,nothing special today,Neutral,3,110
+2024-04-01,Dal Rice,worst meal this month,Negative,1,70
+2024-04-01,Paneer Butter Masala,average as usual,Neutral,3,39
+2024-04-02,Upma,great taste today,Positive,5,53
+2024-04-02,Khichdi,nothing special today,Neutral,3,64
+2024-04-02,Fried Rice,acceptable quality,Neutral,3,36
+2024-04-02,Roti Sabzi,food was amazing today!,Positive,5,27
+2024-04-02,Curd Rice,average as usual,Neutral,3,104
+2024-04-03,Idli Sambar,paneer was delicious,Positive,5,107
+2024-04-03,Roti Sabzi,could be better,Neutral,3,51
+2024-04-03,Curd Rice,could be better,Neutral,3,27
+2024-04-03,Rajma Rice,really enjoyed the food,Positive,5,58
+2024-04-03,Paneer Butter Masala,paneer was delicious,Positive,4,78
+2024-04-04,Chole Bhature,decent meal,Neutral,3,21
+2024-04-04,Upma,very tasty and fresh,Positive,4,115
+2024-04-04,Roti Sabzi,decent meal,Neutral,3,33
+2024-04-04,Poha,paneer was delicious,Positive,5,36
+2024-04-04,Rajma Rice,loved the biryani!,Positive,5,17
+2024-04-05,Rajma Rice,worst meal this month,Negative,2,30
+2024-04-05,Biryani,very bad quality today,Negative,2,71
+2024-04-05,Idli Sambar,decent meal,Neutral,3,26
+2024-04-05,Paratha,cold food served again,Negative,2,114
+2024-04-05,Fried Rice,decent meal,Neutral,3,87
+2024-04-06,Paneer Butter Masala,decent meal,Neutral,3,35
+2024-04-06,Dal Rice,very tasty and fresh,Positive,5,18
+2024-04-06,Fried Rice,tasteless food,Negative,2,82
+2024-04-06,Upma,rice was overcooked,Negative,2,83
+2024-04-06,Biryani,loved the biryani!,Positive,5,92
+2024-04-07,Roti Sabzi,very tasty and fresh,Positive,5,68
+2024-04-07,Rajma Rice,very tasty and fresh,Positive,4,60
+2024-04-07,Dal Rice,food was okay,Neutral,3,30
+2024-04-07,Chole Bhature,best meal this week,Positive,4,99
+2024-04-07,Paratha,average as usual,Neutral,3,62
+2024-04-08,Fried Rice,could be better,Neutral,3,62
+2024-04-08,Biryani,best meal this week,Positive,4,74
+2024-04-08,Poha,food was amazing today!,Positive,4,91
+2024-04-08,Rajma Rice,acceptable quality,Neutral,3,58
+2024-04-08,Curd Rice,paneer was delicious,Positive,4,60
+2024-04-09,Idli Sambar,great taste today,Positive,5,69
+2024-04-09,Fried Rice,excellent quality today,Positive,5,27
+2024-04-09,Dal Rice,best meal this week,Positive,4,31
+2024-04-09,Poha,dal was undercooked,Negative,1,47
+2024-04-09,Paratha,paneer was delicious,Positive,4,19
+2024-04-10,Curd Rice,very tasty and fresh,Positive,4,101
+2024-04-10,Idli Sambar,excellent quality today,Positive,5,99
+2024-04-10,Fried Rice,loved the biryani!,Positive,5,98
+2024-04-10,Dal Rice,food was amazing today!,Positive,4,16
+2024-04-10,Paratha,average as usual,Neutral,3,57
+2024-04-11,Upma,food was amazing today!,Positive,5,115
+2024-04-11,Fried Rice,loved the biryani!,Positive,4,22
+2024-04-11,Poha,acceptable quality,Neutral,3,102
+2024-04-11,Idli Sambar,paneer was delicious,Positive,4,114
+2024-04-11,Chole Bhature,excellent quality today,Positive,4,79
+2024-04-12,Chole Bhature,really enjoyed the food,Positive,4,11
+2024-04-12,Fried Rice,really enjoyed the food,Positive,4,59
+2024-04-12,Poha,excellent quality today,Positive,4,94
+2024-04-12,Upma,not fresh at all,Negative,1,18
+2024-04-12,Paneer Butter Masala,worst meal this month,Negative,2,108
+2024-04-13,Paneer Butter Masala,loved the biryani!,Positive,5,90
+2024-04-13,Roti Sabzi,acceptable quality,Neutral,3,52
+2024-04-13,Poha,really enjoyed the food,Positive,5,18
+2024-04-13,Biryani,great taste today,Positive,5,75
+2024-04-13,Paratha,average as usual,Neutral,3,39
+2024-04-14,Idli Sambar,average as usual,Neutral,3,17
+2024-04-14,Paneer Butter Masala,great taste today,Positive,5,35
+2024-04-14,Poha,excellent quality today,Positive,4,40
+2024-04-14,Dal Rice,rice was overcooked,Negative,2,27
+2024-04-14,Upma,food was amazing today!,Positive,5,92
+2024-04-15,Dal Rice,food was amazing today!,Positive,4,112
+2024-04-15,Idli Sambar,acceptable quality,Neutral,3,87
+2024-04-15,Upma,not fresh at all,Negative,1,66
+2024-04-15,Rajma Rice,food was okay,Neutral,3,18
+2024-04-15,Paneer Butter Masala,food was too salty,Negative,1,36
+2024-04-16,Paratha,tasteless food,Negative,1,74
+2024-04-16,Poha,great taste today,Positive,5,31
+2024-04-16,Fried Rice,average as usual,Neutral,3,32
+2024-04-16,Paneer Butter Masala,nothing special today,Neutral,3,83
+2024-04-16,Biryani,excellent quality today,Positive,5,120
+2024-04-17,Fried Rice,great taste today,Positive,5,64
+2024-04-17,Roti Sabzi,paneer was delicious,Positive,4,114
+2024-04-17,Poha,rice was overcooked,Negative,1,107
+2024-04-17,Rajma Rice,loved the biryani!,Positive,5,86
+2024-04-17,Chole Bhature,very tasty and fresh,Positive,5,58
+2024-04-18,Roti Sabzi,decent meal,Neutral,3,52
+2024-04-18,Dal Rice,great taste today,Positive,4,29
+2024-04-18,Fried Rice,food was too salty,Negative,1,120
+2024-04-18,Khichdi,really enjoyed the food,Positive,5,61
+2024-04-18,Chole Bhature,worst meal this month,Negative,2,59
+2024-04-19,Roti Sabzi,food was amazing today!,Positive,4,59
+2024-04-19,Dal Rice,very bad quality today,Negative,1,107
+2024-04-19,Curd Rice,best meal this week,Positive,5,75
+2024-04-19,Paneer Butter Masala,acceptable quality,Neutral,3,99
+2024-04-19,Poha,paneer was delicious,Positive,5,104
+2024-04-20,Upma,acceptable quality,Neutral,3,99
+2024-04-20,Fried Rice,average as usual,Neutral,3,87
+2024-04-20,Roti Sabzi,very tasty and fresh,Positive,5,41
+2024-04-20,Idli Sambar,acceptable quality,Neutral,3,11
+2024-04-20,Rajma Rice,loved the biryani!,Positive,5,60
+2024-04-21,Khichdi,very bad quality today,Negative,2,42
+2024-04-21,Paneer Butter Masala,could be better,Neutral,3,85
+2024-04-21,Poha,paneer was delicious,Positive,4,23
+2024-04-21,Biryani,nothing special today,Neutral,3,44
+2024-04-21,Upma,acceptable quality,Neutral,3,99
+2024-04-22,Dal Rice,paneer was delicious,Positive,5,93
+2024-04-22,Idli Sambar,paneer was delicious,Positive,4,32
+2024-04-22,Paratha,very tasty and fresh,Positive,4,72
+2024-04-22,Roti Sabzi,loved the biryani!,Positive,5,82
+2024-04-22,Khichdi,very bad quality today,Negative,1,17
+2024-04-23,Khichdi,loved the biryani!,Positive,4,20
+2024-04-23,Paratha,paneer was delicious,Positive,4,45
+2024-04-23,Upma,food was amazing today!,Positive,4,71
+2024-04-23,Dal Rice,loved the biryani!,Positive,4,17
+2024-04-23,Chole Bhature,food was amazing today!,Positive,4,22
+2024-04-24,Upma,cold food served again,Negative,2,70
+2024-04-24,Biryani,could be better,Neutral,3,53
+2024-04-24,Idli Sambar,really enjoyed the food,Positive,5,114
+2024-04-24,Chole Bhature,really enjoyed the food,Positive,5,58
+2024-04-24,Khichdi,nothing special today,Neutral,3,113
+2024-04-25,Poha,loved the biryani!,Positive,5,99
+2024-04-25,Idli Sambar,average as usual,Neutral,3,67
+2024-04-25,Roti Sabzi,acceptable quality,Neutral,3,75
+2024-04-25,Chole Bhature,excellent quality today,Positive,4,91
+2024-04-25,Paratha,not fresh at all,Negative,1,91
+2024-04-26,Rajma Rice,decent meal,Neutral,3,54
+2024-04-26,Idli Sambar,great taste today,Positive,4,103
+2024-04-26,Fried Rice,excellent quality today,Positive,4,76
+2024-04-26,Roti Sabzi,food was too salty,Negative,1,73
+2024-04-26,Upma,nothing special today,Neutral,3,31
+2024-04-27,Roti Sabzi,very tasty and fresh,Positive,4,23
+2024-04-27,Poha,food was amazing today!,Positive,4,51
+2024-04-27,Fried Rice,cold food served again,Negative,1,102
+2024-04-27,Biryani,great taste today,Positive,4,95
+2024-04-27,Upma,great taste today,Positive,4,111
+2024-04-28,Khichdi,decent meal,Neutral,3,93
+2024-04-28,Rajma Rice,could be better,Neutral,3,113
+2024-04-28,Upma,best meal this week,Positive,4,47
+2024-04-28,Paneer Butter Masala,loved the biryani!,Positive,5,104
+2024-04-28,Poha,average as usual,Neutral,3,83
+2024-04-29,Rajma Rice,excellent quality today,Positive,5,64
+2024-04-29,Paratha,really enjoyed the food,Positive,4,76
+2024-04-29,Fried Rice,could be better,Neutral,3,23
+2024-04-29,Chole Bhature,great taste today,Positive,5,28
+2024-04-29,Idli Sambar,cold food served again,Negative,1,73
+2024-04-30,Curd Rice,food was amazing today!,Positive,5,49
+2024-04-30,Roti Sabzi,loved the biryani!,Positive,5,118
+2024-04-30,Paratha,decent meal,Neutral,3,73
+2024-04-30,Paneer Butter Masala,paneer was delicious,Positive,4,113
+2024-04-30,Dal Rice,excellent quality today,Positive,4,99
+2024-05-01,Khichdi,very tasty and fresh,Positive,4,80
+2024-05-01,Idli Sambar,paneer was delicious,Positive,5,54
+2024-05-01,Paratha,decent meal,Neutral,3,77
+2024-05-01,Roti Sabzi,nothing special today,Neutral,3,99
+2024-05-01,Chole Bhature,worst meal this month,Negative,1,26
+2024-05-02,Rajma Rice,could be better,Neutral,3,66
+2024-05-02,Paneer Butter Masala,nothing special today,Neutral,3,36
+2024-05-02,Idli Sambar,excellent quality today,Positive,4,56
+2024-05-02,Dal Rice,could be better,Neutral,3,96
+2024-05-02,Roti Sabzi,average as usual,Neutral,3,64
+2024-05-03,Curd Rice,very bad quality today,Negative,1,25
+2024-05-03,Paratha,not fresh at all,Negative,2,29
+2024-05-03,Idli Sambar,decent meal,Neutral,3,14
+2024-05-03,Poha,paneer was delicious,Positive,5,48
+2024-05-03,Rajma Rice,average as usual,Neutral,3,109
+2024-05-04,Khichdi,worst meal this month,Negative,2,90
+2024-05-04,Curd Rice,nothing special today,Neutral,3,25
+2024-05-04,Fried Rice,loved the biryani!,Positive,5,92
+2024-05-04,Poha,could be better,Neutral,3,12
+2024-05-04,Roti Sabzi,could be better,Neutral,3,45
+2024-05-05,Khichdi,paneer was delicious,Positive,5,83
+2024-05-05,Fried Rice,really enjoyed the food,Positive,4,101
+2024-05-05,Poha,very bad quality today,Negative,2,114
+2024-05-05,Paneer Butter Masala,decent meal,Neutral,3,18
+2024-05-05,Paratha,loved the biryani!,Positive,4,94
+2024-05-06,Poha,nothing special today,Neutral,3,15
+2024-05-06,Paratha,excellent quality today,Positive,4,21
+2024-05-06,Paneer Butter Masala,food was okay,Neutral,3,25
+2024-05-06,Khichdi,really enjoyed the food,Positive,4,64
+2024-05-06,Idli Sambar,food was too salty,Negative,1,48
+2024-05-07,Idli Sambar,great taste today,Positive,5,76
+2024-05-07,Biryani,not fresh at all,Negative,1,98
+2024-05-07,Dal Rice,food was amazing today!,Positive,4,14
+2024-05-07,Khichdi,best meal this week,Positive,4,27
+2024-05-07,Roti Sabzi,average as usual,Neutral,3,45
+2024-05-08,Paratha,best meal this week,Positive,5,93
+2024-05-08,Khichdi,worst meal this month,Negative,2,20
+2024-05-08,Paneer Butter Masala,worst meal this month,Negative,1,78
+2024-05-08,Chole Bhature,best meal this week,Positive,4,101
+2024-05-08,Poha,very tasty and fresh,Positive,5,115
+2024-05-09,Paratha,tasteless food,Negative,1,44
+2024-05-09,Rajma Rice,loved the biryani!,Positive,5,18
+2024-05-09,Chole Bhature,loved the biryani!,Positive,5,52
+2024-05-09,Curd Rice,average as usual,Neutral,3,45
+2024-05-09,Idli Sambar,paneer was delicious,Positive,4,58
+2024-05-10,Poha,decent meal,Neutral,3,77
+2024-05-10,Fried Rice,best meal this week,Positive,5,87
+2024-05-10,Paratha,food was amazing today!,Positive,4,50
+2024-05-10,Biryani,worst meal this month,Negative,1,54
+2024-05-10,Dal Rice,worst meal this month,Negative,2,85
+2024-05-11,Paratha,average as usual,Neutral,3,82
+2024-05-11,Dal Rice,food was okay,Neutral,3,100
+2024-05-11,Idli Sambar,acceptable quality,Neutral,3,100
+2024-05-11,Biryani,great taste today,Positive,5,112
+2024-05-11,Fried Rice,best meal this week,Positive,5,64
+2024-05-12,Biryani,worst meal this month,Negative,2,118
+2024-05-12,Khichdi,loved the biryani!,Positive,4,103
+2024-05-12,Upma,loved the biryani!,Positive,4,83
+2024-05-12,Dal Rice,best meal this week,Positive,5,113
+2024-05-12,Poha,worst meal this month,Negative,1,71
+2024-05-13,Roti Sabzi,excellent quality today,Positive,4,101
+2024-05-13,Biryani,really enjoyed the food,Positive,4,104
+2024-05-13,Curd Rice,could be better,Neutral,3,87
+2024-05-13,Khichdi,very tasty and fresh,Positive,4,32
+2024-05-13,Poha,very tasty and fresh,Positive,5,16
+2024-05-14,Chole Bhature,not fresh at all,Negative,1,116
+2024-05-14,Roti Sabzi,loved the biryani!,Positive,5,48
+2024-05-14,Fried Rice,best meal this week,Positive,4,10
+2024-05-14,Paratha,could be better,Neutral,3,37
+2024-05-14,Rajma Rice,food was too salty,Negative,2,89
+2024-05-15,Roti Sabzi,really enjoyed the food,Positive,4,10
+2024-05-15,Idli Sambar,very tasty and fresh,Positive,5,55
+2024-05-15,Rajma Rice,paneer was delicious,Positive,5,35
+2024-05-15,Khichdi,very tasty and fresh,Positive,5,25
+2024-05-15,Fried Rice,food was too salty,Negative,1,108
+2024-05-16,Curd Rice,really enjoyed the food,Positive,5,33
+2024-05-16,Dal Rice,best meal this week,Positive,4,66
+2024-05-16,Upma,decent meal,Neutral,3,27
+2024-05-16,Roti Sabzi,paneer was delicious,Positive,4,55
+2024-05-16,Chole Bhature,tasteless food,Negative,1,34
+2024-05-17,Dal Rice,food was okay,Neutral,3,95
+2024-05-17,Idli Sambar,great taste today,Positive,5,25
+2024-05-17,Paratha,great taste today,Positive,4,51
+2024-05-17,Chole Bhature,decent meal,Neutral,3,26
+2024-05-17,Paneer Butter Masala,loved the biryani!,Positive,4,26
+2024-05-18,Paratha,really enjoyed the food,Positive,5,86
+2024-05-18,Rajma Rice,decent meal,Neutral,3,47
+2024-05-18,Biryani,loved the biryani!,Positive,5,41
+2024-05-18,Idli Sambar,acceptable quality,Neutral,3,41
+2024-05-18,Upma,loved the biryani!,Positive,5,99
+2024-05-19,Upma,food was okay,Neutral,3,34
+2024-05-19,Curd Rice,very bad quality today,Negative,1,25
+2024-05-19,Chole Bhature,food was amazing today!,Positive,5,34
+2024-05-19,Fried Rice,worst meal this month,Negative,1,88
+2024-05-19,Roti Sabzi,food was amazing today!,Positive,5,62
+2024-05-20,Biryani,great taste today,Positive,4,75
+2024-05-20,Dal Rice,food was amazing today!,Positive,5,24
+2024-05-20,Curd Rice,best meal this week,Positive,5,101
+2024-05-20,Upma,really enjoyed the food,Positive,4,33
+2024-05-20,Paneer Butter Masala,food was amazing today!,Positive,5,37
+2024-05-21,Dal Rice,best meal this week,Positive,5,56
+2024-05-21,Roti Sabzi,loved the biryani!,Positive,4,95
+2024-05-21,Fried Rice,very tasty and fresh,Positive,5,56
+2024-05-21,Paneer Butter Masala,nothing special today,Neutral,3,40
+2024-05-21,Poha,average as usual,Neutral,3,21
+2024-05-22,Poha,excellent quality today,Positive,4,100
+2024-05-22,Paratha,loved the biryani!,Positive,4,79
+2024-05-22,Curd Rice,nothing special today,Neutral,3,107
+2024-05-22,Paneer Butter Masala,very tasty and fresh,Positive,4,26
+2024-05-22,Fried Rice,best meal this week,Positive,5,56
+2024-05-23,Roti Sabzi,food was amazing today!,Positive,4,86
+2024-05-23,Curd Rice,very tasty and fresh,Positive,5,15
+2024-05-23,Poha,food was too salty,Negative,1,104
+2024-05-23,Chole Bhature,rice was overcooked,Negative,1,31
+2024-05-23,Khichdi,paneer was delicious,Positive,5,61
+2024-05-24,Paneer Butter Masala,excellent quality today,Positive,4,111
+2024-05-24,Dal Rice,best meal this week,Positive,5,119
+2024-05-24,Upma,best meal this week,Positive,4,31
+2024-05-24,Paratha,excellent quality today,Positive,5,15
+2024-05-24,Idli Sambar,nothing special today,Neutral,3,44
+2024-05-25,Fried Rice,food was amazing today!,Positive,5,90
+2024-05-25,Idli Sambar,nothing special today,Neutral,3,20
+2024-05-25,Curd Rice,cold food served again,Negative,1,62
+2024-05-25,Upma,cold food served again,Negative,2,17
+2024-05-25,Paneer Butter Masala,food was okay,Neutral,3,38
+2024-05-26,Khichdi,loved the biryani!,Positive,5,93
+2024-05-26,Dal Rice,excellent quality today,Positive,5,38
+2024-05-26,Paratha,excellent quality today,Positive,5,29
+2024-05-26,Fried Rice,paneer was delicious,Positive,5,28
+2024-05-26,Idli Sambar,dal was undercooked,Negative,2,33
+2024-05-27,Roti Sabzi,very bad quality today,Negative,2,12
+2024-05-27,Paratha,very tasty and fresh,Positive,5,97
+2024-05-27,Khichdi,food was okay,Neutral,3,19
+2024-05-27,Upma,great taste today,Positive,5,22
+2024-05-27,Fried Rice,average as usual,Neutral,3,87
+2024-05-28,Poha,food was too salty,Negative,1,41
+2024-05-28,Chole Bhature,nothing special today,Neutral,3,90
+2024-05-28,Khichdi,food was okay,Neutral,3,79
+2024-05-28,Idli Sambar,nothing special today,Neutral,3,35
+2024-05-28,Fried Rice,great taste today,Positive,4,49
+2024-05-29,Rajma Rice,best meal this week,Positive,4,12
+2024-05-29,Roti Sabzi,dal was undercooked,Negative,2,23
+2024-05-29,Paratha,paneer was delicious,Positive,4,10
+2024-05-29,Upma,food was too salty,Negative,1,64
+2024-05-29,Idli Sambar,really enjoyed the food,Positive,5,38
+2024-05-30,Curd Rice,loved the biryani!,Positive,4,23
+2024-05-30,Chole Bhature,cold food served again,Negative,2,19
+2024-05-30,Fried Rice,food was okay,Neutral,3,20
+2024-05-30,Poha,very bad quality today,Negative,1,64
+2024-05-30,Roti Sabzi,very tasty and fresh,Positive,5,29
+2024-05-31,Curd Rice,loved the biryani!,Positive,5,73
+2024-05-31,Fried Rice,nothing special today,Neutral,3,110
+2024-05-31,Dal Rice,very tasty and fresh,Positive,4,50
+2024-05-31,Paneer Butter Masala,great taste today,Positive,5,114
+2024-05-31,Khichdi,paneer was delicious,Positive,5,28
