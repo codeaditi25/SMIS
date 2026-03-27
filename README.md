@@ -177,8 +177,8 @@ Sentiment Classifier Acc : ~96%
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Registration No: [Your Reg No]  
+**ADITI PANDEY**  
+Registration No: 25BCE11306 
 B.Tech CSE | Semester 2  
 VIT Bhopal University  
 Course: CSA2001 — Fundamentals in AI and ML
